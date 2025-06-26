@@ -1,0 +1,201 @@
+ID,Name,Type of coffee,Size,Time order
+1,Ava Garcia,Freeze Tra Xanh,M,Morning
+2,Emma Johnson,Phin Sua,M,Afternoon
+3,Harper Thomas,Latte,S,Afternoon
+4,Abigail Jackson,Espresso,S,Morning
+5,Harper Thomas,Mocha,M,Evening
+6,Charlotte Anderson,Cold Brew,M,Evening
+7,Abigail Jackson,Freeze Tra Xanh,M,Afternoon
+8,Logan Martinez,Tra Sen Vang,M,Afternoon
+9,Harper Thomas,Freeze Tra Xanh,S,Morning
+10,Elijah White,Americano,L,Morning
+11,Lucas Martin,Freeze Tra Xanh,S,Morning
+12,John Smith,Espresso,M,Afternoon
+13,Noah Jones,Espresso,L,Evening
+14,Emma Johnson,Phin Sua,L,Evening
+15,Harper Thomas,Latte,L,Morning
+16,Olivia Williams,Latte,L,Afternoon
+17,John Smith,Phin Sua,S,Morning
+18,Charlotte Anderson,Americano,L,Morning
+19,Sophia Davis,Mocha,M,Morning
+20,Abigail Jackson,Espresso,L,Evening
+21,Logan Martinez,Tra Sen Vang,S,Afternoon
+22,Emma Johnson,Cold Brew,M,Afternoon
+23,Benjamin Harris,Cold Brew,L,Morning
+24,Emma Johnson,Freeze Tra Xanh,M,Morning
+25,John Smith,Freeze Tra Xanh,M,Morning
+26,Benjamin Harris,Phin Sua,M,Afternoon
+27,Sophia Davis,Phin Sua,L,Evening
+28,Lucas Martin,Cold Brew,M,Morning
+29,Evelyn Moore,Freeze Tra Xanh,M,Evening
+30,Benjamin Harris,Macchiato,M,Morning
+31,Mason Thompson,Cold Brew,L,Evening
+32,James Wilson,Cold Brew,S,Morning
+33,Harper Thomas,Mocha,S,Evening
+34,James Wilson,Americano,M,Morning
+35,Evelyn Moore,Tra Sen Vang,L,Morning
+36,Olivia Williams,Macchiato,M,Afternoon
+37,Benjamin Harris,Americano,S,Morning
+38,Mason Thompson,Mocha,M,Morning
+39,Sophia Davis,Espresso,L,Afternoon
+40,Mason Thompson,Phin Sua,M,Evening
+41,Isabella Miller,Tra Sen Vang,M,Evening
+42,Liam Brown,Freeze Tra Xanh,M,Afternoon
+43,John Smith,Americano,L,Afternoon
+44,Abigail Jackson,Mocha,L,Evening
+45,Amelia Taylor,Americano,L,Afternoon
+46,Elijah White,Latte,L,Morning
+47,Ava Garcia,Cold Brew,S,Afternoon
+48,Amelia Taylor,Mocha,S,Afternoon
+49,Charlotte Anderson,Tra Sen Vang,L,Afternoon
+50,Jacob Robinson,Macchiato,S,Morning
+51,Lucas Martin,Americano,M,Morning
+52,Harper Thomas,Mocha,M,Evening
+53,Olivia Williams,Macchiato,S,Evening
+54,John Smith,Espresso,S,Afternoon
+55,Charlotte Anderson,Espresso,L,Morning
+56,Lucas Martin,Latte,M,Evening
+57,Ava Garcia,Freeze Tra Xanh,L,Evening
+58,Isabella Miller,Americano,S,Afternoon
+59,Olivia Williams,Latte,L,Morning
+60,Noah Jones,Freeze Tra Xanh,M,Morning
+61,Olivia Williams,Cold Brew,L,Morning
+62,Harper Thomas,Mocha,M,Morning
+63,Charlotte Anderson,Phin Sua,L,Afternoon
+64,Abigail Jackson,Tra Sen Vang,L,Morning
+65,Mason Thompson,Cold Brew,M,Morning
+66,John Smith,Freeze Tra Xanh,M,Afternoon
+67,Evelyn Moore,Cold Brew,S,Morning
+68,Ava Garcia,Latte,L,Evening
+69,Mason Thompson,Latte,M,Afternoon
+70,Isabella Miller,Macchiato,L,Evening
+71,Ava Garcia,Mocha,L,Evening
+72,James Wilson,Macchiato,S,Afternoon
+73,Lucas Martin,Macchiato,S,Evening
+74,Sophia Davis,Macchiato,S,Morning
+75,James Wilson,Tra Sen Vang,S,Afternoon
+76,James Wilson,Mocha,L,Afternoon
+77,Lucas Martin,Mocha,M,Morning
+78,Sophia Davis,Macchiato,S,Afternoon
+79,Mason Thompson,Latte,M,Afternoon
+80,Evelyn Moore,Latte,L,Morning
+81,Amelia Taylor,Americano,M,Morning
+82,Liam Brown,Macchiato,M,Afternoon
+83,Charlotte Anderson,Macchiato,S,Evening
+84,Charlotte Anderson,Americano,S,Afternoon
+85,Mason Thompson,Macchiato,S,Afternoon
+86,Charlotte Anderson,Americano,L,Afternoon
+87,Logan Martinez,Mocha,L,Morning
+88,Elijah White,Mocha,L,Morning
+89,Jacob Robinson,Mocha,S,Evening
+90,Lucas Martin,Mocha,S,Morning
+91,Harper Thomas,Cold Brew,L,Morning
+92,Charlotte Anderson,Espresso,S,Evening
+93,Amelia Taylor,Latte,L,Evening
+94,Lucas Martin,Macchiato,S,Morning
+95,Lucas Martin,Macchiato,L,Evening
+96,Noah Jones,Tra Sen Vang,S,Afternoon
+97,Harper Thomas,Freeze Tra Xanh,L,Morning
+98,Isabella Miller,Cold Brew,L,Evening
+99,Elijah White,Cold Brew,M,Morning
+100,Sophia Davis,Latte,M,Evening
+101,Noah Jones,Cold Brew,L,Morning
+102,Isabella Miller,Mocha,L,Afternoon
+103,Evelyn Moore,Tra Sen Vang,L,Morning
+104,Liam Brown,Phin Sua,M,Evening
+105,Lucas Martin,Cold Brew,L,Afternoon
+106,Amelia Taylor,Americano,L,Morning
+107,Amelia Taylor,Tra Sen Vang,S,Morning
+108,Liam Brown,Americano,M,Morning
+109,Ava Garcia,Latte,S,Afternoon
+110,Emma Johnson,Latte,L,Evening
+111,Emma Johnson,Phin Sua,S,Afternoon
+112,John Smith,Freeze Tra Xanh,S,Afternoon
+113,Jacob Robinson,Macchiato,L,Morning
+114,Charlotte Anderson,Mocha,S,Evening
+115,Ava Garcia,Americano,S,Evening
+116,Isabella Miller,Mocha,S,Morning
+117,Amelia Taylor,Freeze Tra Xanh,S,Evening
+118,Evelyn Moore,Cold Brew,S,Morning
+119,Olivia Williams,Freeze Tra Xanh,S,Evening
+120,Benjamin Harris,Americano,M,Evening
+121,Charlotte Anderson,Macchiato,S,Morning
+122,Sophia Davis,Espresso,M,Afternoon
+123,Lucas Martin,Espresso,S,Afternoon
+124,John Smith,Tra Sen Vang,M,Evening
+125,Abigail Jackson,Mocha,M,Afternoon
+126,Logan Martinez,Mocha,S,Afternoon
+127,Mason Thompson,Espresso,L,Evening
+128,Harper Thomas,Tra Sen Vang,S,Afternoon
+129,Charlotte Anderson,Americano,L,Afternoon
+130,Abigail Jackson,Freeze Tra Xanh,M,Morning
+131,Noah Jones,Latte,S,Morning
+132,Liam Brown,Macchiato,S,Afternoon
+133,Abigail Jackson,Cold Brew,M,Morning
+134,Elijah White,Cold Brew,L,Morning
+135,Sophia Davis,Mocha,S,Evening
+136,James Wilson,Espresso,S,Morning
+137,Benjamin Harris,Mocha,L,Evening
+138,Harper Thomas,Espresso,S,Afternoon
+139,Sophia Davis,Macchiato,M,Afternoon
+140,Abigail Jackson,Mocha,S,Afternoon
+141,Noah Jones,Latte,S,Afternoon
+142,Benjamin Harris,Tra Sen Vang,L,Evening
+143,James Wilson,Macchiato,M,Afternoon
+144,Charlotte Anderson,Cold Brew,M,Afternoon
+145,Amelia Taylor,Espresso,L,Evening
+146,Amelia Taylor,Cold Brew,S,Afternoon
+147,Liam Brown,Latte,L,Afternoon
+148,Ava Garcia,Tra Sen Vang,L,Afternoon
+149,John Smith,Americano,S,Afternoon
+150,Ava Garcia,Mocha,M,Morning
+151,Olivia Williams,Cold Brew,L,Evening
+152,Jacob Robinson,Tra Sen Vang,M,Evening
+153,Benjamin Harris,Macchiato,M,Afternoon
+154,Liam Brown,Phin Sua,S,Afternoon
+155,James Wilson,Tra Sen Vang,L,Afternoon
+156,Liam Brown,Latte,L,Afternoon
+157,Olivia Williams,Freeze Tra Xanh,L,Afternoon
+158,Liam Brown,Americano,M,Evening
+159,John Smith,Cold Brew,L,Morning
+160,Mason Thompson,Cold Brew,M,Afternoon
+161,Ava Garcia,Tra Sen Vang,M,Afternoon
+162,Isabella Miller,Tra Sen Vang,L,Morning
+163,Amelia Taylor,Mocha,M,Afternoon
+164,Charlotte Anderson,Tra Sen Vang,L,Afternoon
+165,Jacob Robinson,Mocha,L,Afternoon
+166,Emma Johnson,Freeze Tra Xanh,S,Afternoon
+167,Noah Jones,Macchiato,L,Afternoon
+168,Elijah White,Mocha,S,Evening
+169,James Wilson,Cold Brew,S,Morning
+170,Charlotte Anderson,Mocha,M,Afternoon
+171,Harper Thomas,Cold Brew,M,Evening
+172,Olivia Williams,Espresso,L,Morning
+173,Ava Garcia,Macchiato,S,Evening
+174,Elijah White,Freeze Tra Xanh,L,Evening
+175,Olivia Williams,Macchiato,S,Morning
+176,Elijah White,Freeze Tra Xanh,M,Morning
+177,Harper Thomas,Phin Sua,L,Morning
+178,Ava Garcia,Tra Sen Vang,S,Evening
+179,John Smith,Latte,S,Evening
+180,Elijah White,Latte,L,Morning
+181,Emma Johnson,Tra Sen Vang,L,Morning
+182,Mason Thompson,Espresso,S,Evening
+183,Benjamin Harris,Macchiato,S,Morning
+184,Emma Johnson,Tra Sen Vang,L,Evening
+185,Isabella Miller,Americano,M,Evening
+186,Olivia Williams,Freeze Tra Xanh,M,Evening
+187,Mason Thompson,Americano,L,Evening
+188,Logan Martinez,Cold Brew,M,Evening
+189,Sophia Davis,Tra Sen Vang,S,Afternoon
+190,Benjamin Harris,Macchiato,S,Morning
+191,Elijah White,Macchiato,M,Evening
+192,Harper Thomas,Cold Brew,S,Evening
+193,Noah Jones,Cold Brew,L,Evening
+194,Isabella Miller,Espresso,M,Afternoon
+195,Liam Brown,Macchiato,M,Morning
+196,Elijah White,Mocha,M,Afternoon
+197,Charlotte Anderson,Tra Sen Vang,S,Afternoon
+198,James Wilson,Macchiato,L,Afternoon
+199,John Smith,Latte,M,Evening
+200,Abigail Jackson,Espresso,L,Evening
