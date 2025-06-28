@@ -1,0 +1,1001 @@
+ID,Name,Recency,Frequency,Monetary,Favorite_Product,Order_Time,Channel,Store_Location
+1,Evelyn Moore,117,15,311.28,Phin Sua,Afternoon,App,HCM - District 1
+2,Emma Johnson,16,4,283.31,Mocha,Evening,In-store,HCM - District 1
+3,Liam Brown,30,3,202.41,Cold Brew,Morning,App,Da Nang
+4,Elijah White,16,9,398.52,Tra Sen Vang,Morning,Delivery,HCM - District 1
+5,Emma Johnson,12,13,132.4,Mocha,Afternoon,App,Hanoi - Cau Giay
+6,Harper Thomas,73,11,266.4,Phin Sua,Morning,In-store,Hanoi - Hoan Kiem
+7,Charlotte Anderson,43,15,376.58,Phin Sua,Morning,Delivery,HCM - District 1
+8,Isabella Miller,76,5,90.57,Phin Sua,Morning,In-store,Da Nang
+9,Evelyn Moore,167,3,260.88,Phin Den Da,Afternoon,Delivery,Da Nang
+10,Logan Martinez,99,19,474.91,Mocha,Evening,Delivery,HCM - District 1
+11,Emma Johnson,4,6,290.6,Mocha,Evening,In-store,HCM - District 3
+12,Mason Thompson,43,18,280.62,Tra Sen Vang,Afternoon,In-store,Da Nang
+13,Lucas Martin,66,17,466.21,Latte,Morning,Delivery,Hanoi - Hoan Kiem
+14,Elijah White,156,1,130.76,Mocha,Evening,App,HCM - District 1
+15,James Wilson,72,17,215.95,Latte,Afternoon,In-store,Hanoi - Cau Giay
+16,Isabella Miller,74,3,346.28,Phin Den Da,Morning,App,Da Nang
+17,Liam Brown,75,7,470.62,Mocha,Evening,Delivery,HCM - District 1
+18,Charlotte Anderson,151,5,246.83,Freeze Tra Xanh,Afternoon,App,Da Nang
+19,Mason Thompson,113,12,362.92,Latte,Morning,Delivery,Hanoi - Cau Giay
+20,Jacob Robinson,45,18,378.87,Freeze Tra Xanh,Afternoon,In-store,HCM - District 1
+21,Olivia Williams,105,15,342.97,Tra Sen Vang,Evening,App,HCM - District 3
+22,Logan Martinez,110,14,237.84,Latte,Morning,In-store,Hanoi - Hoan Kiem
+23,Benjamin Harris,157,3,312.12,Tra Sen Vang,Evening,Delivery,Hanoi - Hoan Kiem
+24,Elijah White,19,12,168.29,Phin Sua,Morning,In-store,HCM - District 3
+25,Isabella Miller,150,7,266.17,Freeze Tra Xanh,Morning,Delivery,Da Nang
+26,Abigail Jackson,66,8,305.41,Mocha,Afternoon,App,Da Nang
+27,Lucas Martin,65,6,300.53,Phin Den Da,Evening,Delivery,Da Nang
+28,Amelia Taylor,54,5,54.66,Latte,Morning,Delivery,HCM - District 3
+29,Abigail Jackson,84,3,167.68,Tra Sen Vang,Evening,Delivery,HCM - District 1
+30,Benjamin Harris,138,15,344.97,Freeze Tra Xanh,Evening,App,Hanoi - Hoan Kiem
+31,Ava Garcia,145,3,72.89,Espresso,Afternoon,In-store,Da Nang
+32,Olivia Williams,121,6,267.01,Phin Den Da,Afternoon,App,Hanoi - Hoan Kiem
+33,Amelia Taylor,73,7,274.92,Latte,Evening,App,Da Nang
+34,Liam Brown,163,8,234.04,Phin Sua,Morning,In-store,Hanoi - Cau Giay
+35,Jacob Robinson,89,13,241.03,Cold Brew,Morning,Delivery,Hanoi - Cau Giay
+36,Liam Brown,179,14,245.66,Espresso,Evening,App,Da Nang
+37,Amelia Taylor,110,17,305.76,Mocha,Afternoon,App,Hanoi - Hoan Kiem
+38,Elijah White,134,4,300.3,Freeze Tra Xanh,Afternoon,Delivery,HCM - District 3
+39,Charlotte Anderson,39,17,292.02,Espresso,Morning,App,HCM - District 3
+40,Sophia Davis,98,1,204.68,Phin Den Da,Evening,App,Da Nang
+41,Ava Garcia,69,13,232.25,Freeze Tra Xanh,Evening,App,Da Nang
+42,Logan Martinez,33,10,300.92,Mocha,Afternoon,Delivery,HCM - District 3
+43,James Wilson,27,9,288.35,Tra Sen Vang,Morning,Delivery,Hanoi - Hoan Kiem
+44,Amelia Taylor,80,8,479.74,Mocha,Afternoon,Delivery,Da Nang
+45,Isabella Miller,65,10,263.71,Freeze Tra Xanh,Afternoon,In-store,HCM - District 3
+46,Benjamin Harris,2,9,242.95,Phin Sua,Afternoon,Delivery,Hanoi - Cau Giay
+47,Charlotte Anderson,83,2,334.4,Espresso,Afternoon,App,Hanoi - Cau Giay
+48,Ava Garcia,33,10,277.88,Latte,Afternoon,Delivery,Da Nang
+49,Benjamin Harris,65,6,256.07,Tra Sen Vang,Morning,In-store,Hanoi - Hoan Kiem
+50,Lucas Martin,121,1,223.76,Phin Sua,Evening,Delivery,Hanoi - Cau Giay
+51,Olivia Williams,79,7,365.62,Espresso,Evening,In-store,Hanoi - Hoan Kiem
+52,Abigail Jackson,151,2,354.23,Tra Sen Vang,Afternoon,In-store,Hanoi - Hoan Kiem
+53,Benjamin Harris,105,16,287.82,Freeze Tra Xanh,Morning,In-store,Da Nang
+54,Evelyn Moore,162,7,420.04,Latte,Evening,Delivery,Hanoi - Hoan Kiem
+55,Ava Garcia,73,17,404.58,Freeze Tra Xanh,Evening,In-store,HCM - District 1
+56,Liam Brown,73,12,311.46,Phin Den Da,Morning,App,Hanoi - Hoan Kiem
+57,Lucas Martin,145,12,499.84,Espresso,Afternoon,App,HCM - District 3
+58,Noah Jones,128,9,253.48,Phin Den Da,Evening,In-store,Hanoi - Hoan Kiem
+59,Harper Thomas,150,3,473.07,Mocha,Morning,In-store,Hanoi - Cau Giay
+60,Lucas Martin,91,10,263.9,Cold Brew,Evening,App,HCM - District 3
+61,Mason Thompson,123,4,431.14,Mocha,Evening,In-store,Hanoi - Cau Giay
+62,James Wilson,124,17,252.91,Phin Den Da,Afternoon,In-store,Hanoi - Hoan Kiem
+63,John Smith,73,3,408.8,Espresso,Afternoon,In-store,HCM - District 3
+64,Elijah White,150,7,263.19,Espresso,Evening,In-store,Hanoi - Cau Giay
+65,Mason Thompson,171,1,204.92,Phin Den Da,Morning,Delivery,Da Nang
+66,Harper Thomas,174,11,279.11,Mocha,Morning,App,Da Nang
+67,John Smith,138,9,259.45,Mocha,Evening,In-store,Hanoi - Cau Giay
+68,Elijah White,136,17,264.65,Cold Brew,Afternoon,Delivery,Da Nang
+69,Liam Brown,38,8,430.18,Phin Sua,Afternoon,In-store,Hanoi - Hoan Kiem
+70,John Smith,177,19,241.43,Phin Sua,Evening,Delivery,Hanoi - Hoan Kiem
+71,Elijah White,2,11,316.56,Phin Sua,Afternoon,App,Da Nang
+72,Abigail Jackson,139,4,233.29,Cold Brew,Afternoon,In-store,Hanoi - Cau Giay
+73,Ava Garcia,52,16,120.55,Phin Sua,Evening,App,Da Nang
+74,Isabella Miller,57,2,346.54,Phin Sua,Morning,Delivery,Hanoi - Hoan Kiem
+75,Emma Johnson,101,6,212.93,Espresso,Evening,App,Hanoi - Cau Giay
+76,Sophia Davis,44,14,326.11,Latte,Morning,Delivery,HCM - District 3
+77,Charlotte Anderson,166,4,210.66,Freeze Tra Xanh,Evening,In-store,Hanoi - Cau Giay
+78,John Smith,174,7,281.42,Espresso,Evening,Delivery,Hanoi - Hoan Kiem
+79,Isabella Miller,149,11,519.27,Mocha,Morning,Delivery,HCM - District 1
+80,Sophia Davis,130,12,441.78,Freeze Tra Xanh,Morning,Delivery,HCM - District 1
+81,Evelyn Moore,38,11,368.26,Freeze Tra Xanh,Morning,In-store,Da Nang
+82,Ava Garcia,2,6,326.13,Latte,Evening,App,HCM - District 1
+83,Ava Garcia,171,6,152.89,Latte,Evening,App,Da Nang
+84,Logan Martinez,49,18,287.21,Latte,Evening,In-store,Hanoi - Hoan Kiem
+85,Noah Jones,96,7,208.64,Espresso,Morning,Delivery,Hanoi - Cau Giay
+86,Ava Garcia,94,1,338.39,Phin Den Da,Morning,In-store,HCM - District 3
+87,Ava Garcia,160,10,412.61,Latte,Afternoon,Delivery,Da Nang
+88,Harper Thomas,94,17,206.54,Tra Sen Vang,Afternoon,App,HCM - District 1
+89,Emma Johnson,155,14,231.73,Phin Sua,Morning,In-store,Da Nang
+90,Amelia Taylor,75,2,352.93,Cold Brew,Morning,In-store,Hanoi - Cau Giay
+91,Emma Johnson,32,8,401.66,Mocha,Morning,Delivery,Da Nang
+92,Lucas Martin,74,7,176.38,Freeze Tra Xanh,Evening,In-store,HCM - District 1
+93,Harper Thomas,116,19,301.42,Mocha,Morning,In-store,HCM - District 1
+94,James Wilson,144,9,171.77,Phin Sua,Morning,App,Hanoi - Hoan Kiem
+95,Charlotte Anderson,35,17,498.02,Espresso,Morning,In-store,HCM - District 3
+96,Ava Garcia,95,10,99.73,Espresso,Evening,App,HCM - District 3
+97,Charlotte Anderson,158,5,282.33,Tra Sen Vang,Evening,In-store,HCM - District 3
+98,Amelia Taylor,30,5,370.82,Phin Sua,Afternoon,Delivery,HCM - District 1
+99,Harper Thomas,4,10,373.94,Latte,Afternoon,App,Hanoi - Hoan Kiem
+100,Isabella Miller,100,18,357.76,Tra Sen Vang,Evening,App,HCM - District 1
+101,Mason Thompson,109,17,429.7,Cold Brew,Evening,App,Hanoi - Cau Giay
+102,Jacob Robinson,125,18,434.16,Cold Brew,Afternoon,In-store,Hanoi - Hoan Kiem
+103,Olivia Williams,84,18,284.99,Phin Sua,Afternoon,App,HCM - District 3
+104,Amelia Taylor,64,19,319.62,Phin Den Da,Evening,App,Hanoi - Hoan Kiem
+105,Jacob Robinson,34,18,247.76,Espresso,Evening,App,Da Nang
+106,James Wilson,98,17,287.34,Cold Brew,Afternoon,App,Hanoi - Cau Giay
+107,Evelyn Moore,91,16,355.58,Phin Den Da,Evening,In-store,Hanoi - Hoan Kiem
+108,Jacob Robinson,162,11,293.95,Espresso,Evening,App,HCM - District 1
+109,Emma Johnson,96,15,269.99,Mocha,Afternoon,Delivery,Da Nang
+110,Isabella Miller,91,6,301.92,Latte,Morning,Delivery,Da Nang
+111,Sophia Davis,30,7,475.93,Latte,Evening,Delivery,HCM - District 3
+112,Mason Thompson,161,10,253.96,Phin Sua,Evening,Delivery,HCM - District 3
+113,Abigail Jackson,158,1,306.13,Freeze Tra Xanh,Evening,App,Da Nang
+114,Elijah White,132,13,231.84,Cold Brew,Morning,Delivery,Hanoi - Cau Giay
+115,Logan Martinez,73,5,396.73,Espresso,Morning,Delivery,Hanoi - Cau Giay
+116,Charlotte Anderson,82,7,317.43,Phin Den Da,Morning,App,HCM - District 3
+117,Emma Johnson,79,6,316.0,Cold Brew,Evening,App,HCM - District 3
+118,Lucas Martin,48,2,246.77,Phin Sua,Afternoon,Delivery,Da Nang
+119,Ava Garcia,60,3,303.85,Phin Den Da,Evening,In-store,HCM - District 1
+120,Harper Thomas,167,5,162.77,Phin Den Da,Evening,App,Da Nang
+121,Lucas Martin,112,17,359.76,Phin Sua,Morning,App,HCM - District 1
+122,Harper Thomas,33,19,405.78,Phin Sua,Afternoon,Delivery,Hanoi - Cau Giay
+123,Olivia Williams,128,13,115.24,Latte,Morning,Delivery,HCM - District 3
+124,Emma Johnson,91,17,20.0,Phin Den Da,Evening,App,HCM - District 3
+125,Liam Brown,135,11,361.33,Freeze Tra Xanh,Morning,In-store,Hanoi - Hoan Kiem
+126,Noah Jones,160,19,284.66,Freeze Tra Xanh,Evening,In-store,Hanoi - Cau Giay
+127,Isabella Miller,120,13,293.58,Freeze Tra Xanh,Afternoon,In-store,HCM - District 1
+128,Harper Thomas,112,13,404.27,Tra Sen Vang,Morning,Delivery,HCM - District 1
+129,Amelia Taylor,58,19,341.37,Phin Sua,Afternoon,App,HCM - District 3
+130,Olivia Williams,59,12,232.78,Phin Den Da,Morning,Delivery,Hanoi - Hoan Kiem
+131,Abigail Jackson,5,16,300.15,Espresso,Evening,Delivery,Hanoi - Cau Giay
+132,Noah Jones,145,9,466.71,Tra Sen Vang,Morning,Delivery,Hanoi - Cau Giay
+133,Sophia Davis,10,16,129.06,Mocha,Evening,Delivery,HCM - District 1
+134,Sophia Davis,4,5,316.87,Phin Sua,Evening,In-store,Hanoi - Hoan Kiem
+135,James Wilson,86,5,172.16,Phin Sua,Evening,Delivery,Hanoi - Cau Giay
+136,Olivia Williams,66,14,262.18,Mocha,Evening,In-store,HCM - District 3
+137,Abigail Jackson,41,14,467.59,Latte,Evening,App,HCM - District 3
+138,Emma Johnson,59,13,418.26,Tra Sen Vang,Afternoon,Delivery,Hanoi - Cau Giay
+139,Mason Thompson,74,1,99.92,Espresso,Morning,In-store,Da Nang
+140,Sophia Davis,79,16,185.21,Phin Sua,Afternoon,Delivery,Da Nang
+141,Isabella Miller,29,5,391.08,Espresso,Afternoon,App,Da Nang
+142,Lucas Martin,51,12,189.89,Tra Sen Vang,Morning,Delivery,Hanoi - Cau Giay
+143,Benjamin Harris,89,9,391.24,Latte,Afternoon,App,HCM - District 3
+144,Logan Martinez,12,5,379.1,Espresso,Morning,Delivery,Hanoi - Hoan Kiem
+145,Olivia Williams,95,14,150.23,Espresso,Afternoon,In-store,HCM - District 1
+146,Logan Martinez,53,18,404.99,Latte,Afternoon,App,Hanoi - Hoan Kiem
+147,Benjamin Harris,165,5,404.11,Espresso,Evening,Delivery,HCM - District 3
+148,Mason Thompson,117,6,283.42,Phin Den Da,Evening,In-store,Da Nang
+149,Lucas Martin,150,8,365.53,Espresso,Evening,App,HCM - District 3
+150,Abigail Jackson,137,6,257.72,Cold Brew,Evening,App,Hanoi - Hoan Kiem
+151,Evelyn Moore,168,3,399.9,Phin Den Da,Evening,Delivery,Da Nang
+152,Benjamin Harris,117,10,243.8,Latte,Evening,App,HCM - District 1
+153,Abigail Jackson,58,16,554.15,Phin Sua,Evening,App,HCM - District 3
+154,Ava Garcia,157,17,200.27,Freeze Tra Xanh,Morning,Delivery,Da Nang
+155,Sophia Davis,33,7,270.77,Latte,Morning,App,Da Nang
+156,Benjamin Harris,54,10,308.92,Mocha,Afternoon,App,Da Nang
+157,Sophia Davis,62,13,162.47,Mocha,Afternoon,App,Hanoi - Hoan Kiem
+158,Evelyn Moore,53,7,321.96,Mocha,Morning,Delivery,Da Nang
+159,Noah Jones,112,12,413.43,Latte,Morning,App,Hanoi - Hoan Kiem
+160,Abigail Jackson,110,5,199.47,Phin Sua,Evening,Delivery,HCM - District 3
+161,Isabella Miller,172,9,302.89,Mocha,Afternoon,In-store,Hanoi - Cau Giay
+162,Emma Johnson,7,12,405.85,Freeze Tra Xanh,Morning,In-store,Da Nang
+163,Harper Thomas,98,15,402.64,Tra Sen Vang,Evening,Delivery,HCM - District 3
+164,Amelia Taylor,69,7,229.51,Phin Den Da,Morning,In-store,HCM - District 3
+165,Lucas Martin,48,19,181.14,Phin Den Da,Evening,App,HCM - District 1
+166,Noah Jones,32,15,196.51,Freeze Tra Xanh,Morning,Delivery,Hanoi - Hoan Kiem
+167,Jacob Robinson,7,9,326.55,Espresso,Evening,App,Hanoi - Hoan Kiem
+168,Logan Martinez,173,12,363.54,Phin Sua,Afternoon,Delivery,Hanoi - Cau Giay
+169,Isabella Miller,26,17,330.63,Mocha,Morning,App,Da Nang
+170,James Wilson,93,11,186.49,Freeze Tra Xanh,Evening,App,HCM - District 3
+171,Ava Garcia,159,6,193.0,Espresso,Afternoon,Delivery,Hanoi - Hoan Kiem
+172,Emma Johnson,165,10,294.88,Cold Brew,Afternoon,Delivery,Hanoi - Cau Giay
+173,Isabella Miller,133,4,330.91,Cold Brew,Afternoon,Delivery,Hanoi - Hoan Kiem
+174,Emma Johnson,175,11,240.71,Latte,Morning,In-store,HCM - District 1
+175,Mason Thompson,67,19,419.52,Tra Sen Vang,Morning,Delivery,Da Nang
+176,Harper Thomas,60,12,361.93,Cold Brew,Morning,App,HCM - District 3
+177,Noah Jones,158,15,397.24,Mocha,Afternoon,Delivery,HCM - District 1
+178,Emma Johnson,64,6,331.34,Cold Brew,Evening,In-store,Hanoi - Hoan Kiem
+179,Amelia Taylor,129,13,116.02,Cold Brew,Evening,Delivery,Hanoi - Hoan Kiem
+180,Olivia Williams,72,2,371.28,Tra Sen Vang,Evening,In-store,HCM - District 1
+181,Benjamin Harris,21,4,301.38,Latte,Afternoon,Delivery,Hanoi - Cau Giay
+182,Liam Brown,11,10,359.63,Tra Sen Vang,Morning,Delivery,Hanoi - Cau Giay
+183,Isabella Miller,166,7,358.8,Phin Sua,Afternoon,In-store,HCM - District 1
+184,Ava Garcia,116,12,374.74,Mocha,Afternoon,In-store,Da Nang
+185,Liam Brown,6,1,102.54,Phin Den Da,Afternoon,Delivery,HCM - District 3
+186,Olivia Williams,172,18,267.35,Mocha,Morning,In-store,HCM - District 3
+187,Benjamin Harris,61,6,474.76,Latte,Morning,In-store,HCM - District 1
+188,James Wilson,141,15,216.81,Cold Brew,Afternoon,In-store,Hanoi - Hoan Kiem
+189,Emma Johnson,134,14,293.18,Mocha,Afternoon,App,Hanoi - Hoan Kiem
+190,John Smith,39,2,269.67,Phin Sua,Afternoon,App,HCM - District 1
+191,Noah Jones,150,12,431.52,Tra Sen Vang,Morning,Delivery,Hanoi - Cau Giay
+192,Charlotte Anderson,107,5,260.69,Phin Den Da,Morning,Delivery,Hanoi - Cau Giay
+193,John Smith,108,2,325.8,Mocha,Afternoon,App,HCM - District 1
+194,Liam Brown,35,1,216.91,Mocha,Afternoon,Delivery,Da Nang
+195,Elijah White,56,10,300.41,Cold Brew,Afternoon,In-store,HCM - District 1
+196,Abigail Jackson,14,7,209.01,Tra Sen Vang,Evening,App,Hanoi - Cau Giay
+197,Harper Thomas,23,10,303.85,Cold Brew,Afternoon,Delivery,Da Nang
+198,Liam Brown,84,10,373.1,Latte,Afternoon,Delivery,HCM - District 3
+199,Mason Thompson,113,8,319.25,Espresso,Morning,In-store,HCM - District 1
+200,Benjamin Harris,156,9,194.22,Phin Sua,Morning,Delivery,Hanoi - Hoan Kiem
+201,Abigail Jackson,15,18,500.82,Espresso,Evening,In-store,HCM - District 3
+202,Emma Johnson,61,9,186.06,Latte,Afternoon,Delivery,Da Nang
+203,Sophia Davis,48,3,100.13,Tra Sen Vang,Evening,Delivery,Hanoi - Hoan Kiem
+204,Mason Thompson,78,17,477.97,Phin Den Da,Afternoon,Delivery,Hanoi - Cau Giay
+205,Emma Johnson,46,16,134.65,Mocha,Afternoon,Delivery,HCM - District 1
+206,Harper Thomas,119,2,373.18,Freeze Tra Xanh,Afternoon,App,HCM - District 1
+207,James Wilson,170,17,153.96,Latte,Afternoon,App,Da Nang
+208,Isabella Miller,7,9,449.96,Phin Sua,Afternoon,Delivery,HCM - District 1
+209,Elijah White,37,15,216.75,Freeze Tra Xanh,Evening,Delivery,HCM - District 3
+210,Logan Martinez,33,11,182.67,Mocha,Evening,Delivery,HCM - District 1
+211,John Smith,135,3,251.95,Espresso,Morning,App,Hanoi - Cau Giay
+212,Ava Garcia,158,9,233.15,Freeze Tra Xanh,Afternoon,App,Da Nang
+213,Ava Garcia,8,14,454.06,Phin Den Da,Evening,Delivery,Hanoi - Hoan Kiem
+214,Sophia Davis,38,12,184.32,Freeze Tra Xanh,Afternoon,In-store,HCM - District 3
+215,Sophia Davis,38,5,342.59,Phin Sua,Evening,Delivery,Hanoi - Hoan Kiem
+216,Liam Brown,168,13,559.24,Phin Sua,Evening,App,Hanoi - Cau Giay
+217,Amelia Taylor,157,16,212.29,Tra Sen Vang,Morning,Delivery,HCM - District 3
+218,Emma Johnson,145,11,279.51,Freeze Tra Xanh,Morning,App,HCM - District 3
+219,Benjamin Harris,17,9,489.69,Tra Sen Vang,Morning,Delivery,HCM - District 1
+220,Amelia Taylor,105,4,246.29,Tra Sen Vang,Morning,Delivery,HCM - District 1
+221,John Smith,36,11,391.79,Cold Brew,Morning,App,HCM - District 3
+222,Benjamin Harris,9,5,300.84,Phin Sua,Afternoon,App,Da Nang
+223,Lucas Martin,104,17,335.48,Latte,Evening,App,HCM - District 1
+224,Noah Jones,78,18,302.6,Cold Brew,Morning,App,HCM - District 1
+225,Benjamin Harris,137,9,262.83,Phin Den Da,Evening,In-store,HCM - District 3
+226,Evelyn Moore,95,1,301.81,Phin Den Da,Evening,App,HCM - District 3
+227,Charlotte Anderson,152,13,531.55,Latte,Evening,App,Hanoi - Hoan Kiem
+228,Charlotte Anderson,78,7,299.88,Mocha,Morning,Delivery,Da Nang
+229,Logan Martinez,18,2,361.08,Latte,Evening,Delivery,Da Nang
+230,Abigail Jackson,1,16,271.14,Mocha,Morning,App,Hanoi - Hoan Kiem
+231,Emma Johnson,81,4,325.52,Espresso,Evening,App,HCM - District 1
+232,Liam Brown,22,15,277.45,Freeze Tra Xanh,Morning,App,Da Nang
+233,Harper Thomas,126,14,297.05,Mocha,Afternoon,App,HCM - District 3
+234,John Smith,71,7,370.73,Cold Brew,Evening,App,Hanoi - Hoan Kiem
+235,Amelia Taylor,96,19,270.67,Espresso,Afternoon,In-store,HCM - District 1
+236,Ava Garcia,95,14,213.99,Freeze Tra Xanh,Evening,In-store,HCM - District 3
+237,Jacob Robinson,103,1,372.26,Espresso,Evening,App,Da Nang
+238,Charlotte Anderson,26,14,212.38,Espresso,Afternoon,Delivery,HCM - District 1
+239,Logan Martinez,99,4,370.55,Mocha,Morning,App,HCM - District 3
+240,Benjamin Harris,92,16,288.57,Cold Brew,Morning,Delivery,Hanoi - Hoan Kiem
+241,Charlotte Anderson,147,5,530.01,Phin Sua,Morning,App,Da Nang
+242,Evelyn Moore,166,18,392.15,Phin Sua,Afternoon,In-store,Hanoi - Cau Giay
+243,Lucas Martin,62,2,367.36,Freeze Tra Xanh,Morning,In-store,Hanoi - Hoan Kiem
+244,Ava Garcia,73,15,216.19,Tra Sen Vang,Afternoon,App,HCM - District 3
+245,Liam Brown,145,19,148.71,Mocha,Morning,Delivery,Hanoi - Hoan Kiem
+246,Noah Jones,143,16,263.15,Espresso,Evening,Delivery,Da Nang
+247,Logan Martinez,52,19,351.85,Freeze Tra Xanh,Afternoon,App,Da Nang
+248,Ava Garcia,178,17,97.69,Phin Sua,Morning,In-store,Hanoi - Cau Giay
+249,Isabella Miller,137,13,281.26,Phin Den Da,Afternoon,Delivery,HCM - District 1
+250,Noah Jones,132,13,386.74,Phin Den Da,Morning,Delivery,Hanoi - Hoan Kiem
+251,Harper Thomas,73,2,383.03,Phin Den Da,Evening,App,Hanoi - Cau Giay
+252,James Wilson,164,1,390.9,Tra Sen Vang,Evening,Delivery,HCM - District 3
+253,Lucas Martin,58,10,240.09,Freeze Tra Xanh,Evening,App,HCM - District 1
+254,John Smith,164,1,504.1,Phin Den Da,Afternoon,App,Da Nang
+255,Lucas Martin,15,13,441.19,Latte,Evening,App,HCM - District 1
+256,James Wilson,95,14,395.22,Phin Sua,Afternoon,In-store,Hanoi - Cau Giay
+257,Elijah White,127,18,201.64,Mocha,Afternoon,App,Hanoi - Hoan Kiem
+258,Evelyn Moore,25,1,349.8,Mocha,Evening,Delivery,HCM - District 3
+259,Noah Jones,106,14,477.04,Freeze Tra Xanh,Evening,App,Hanoi - Hoan Kiem
+260,Abigail Jackson,158,6,388.51,Espresso,Afternoon,In-store,HCM - District 1
+261,Mason Thompson,20,3,291.75,Freeze Tra Xanh,Morning,Delivery,Da Nang
+262,Noah Jones,115,10,236.65,Latte,Evening,Delivery,HCM - District 1
+263,Emma Johnson,54,1,356.88,Latte,Evening,In-store,Hanoi - Hoan Kiem
+264,Charlotte Anderson,5,3,240.63,Freeze Tra Xanh,Evening,App,HCM - District 1
+265,Mason Thompson,88,1,337.79,Tra Sen Vang,Afternoon,Delivery,Hanoi - Hoan Kiem
+266,Mason Thompson,162,13,318.77,Latte,Afternoon,In-store,Hanoi - Cau Giay
+267,Ava Garcia,139,2,454.81,Espresso,Morning,In-store,Da Nang
+268,John Smith,151,11,438.41,Tra Sen Vang,Morning,In-store,Da Nang
+269,Benjamin Harris,178,3,143.75,Cold Brew,Evening,App,Da Nang
+270,Abigail Jackson,103,7,240.11,Tra Sen Vang,Morning,App,Hanoi - Cau Giay
+271,Lucas Martin,54,19,281.98,Freeze Tra Xanh,Morning,Delivery,Hanoi - Hoan Kiem
+272,Harper Thomas,120,16,197.08,Latte,Morning,Delivery,Da Nang
+273,Amelia Taylor,151,11,233.97,Espresso,Afternoon,In-store,Hanoi - Cau Giay
+274,Charlotte Anderson,131,10,362.29,Tra Sen Vang,Evening,App,Hanoi - Cau Giay
+275,Elijah White,114,4,103.8,Espresso,Evening,App,Hanoi - Cau Giay
+276,Isabella Miller,30,6,396.34,Tra Sen Vang,Evening,Delivery,HCM - District 3
+277,Harper Thomas,124,9,205.98,Phin Sua,Afternoon,App,Hanoi - Cau Giay
+278,Mason Thompson,57,2,357.16,Phin Sua,Evening,App,HCM - District 1
+279,Isabella Miller,132,15,243.37,Latte,Morning,In-store,Da Nang
+280,Benjamin Harris,154,8,573.34,Phin Sua,Evening,App,Da Nang
+281,Olivia Williams,116,17,285.38,Mocha,Morning,Delivery,HCM - District 3
+282,Evelyn Moore,119,17,100.7,Mocha,Afternoon,App,Hanoi - Hoan Kiem
+283,Sophia Davis,164,6,452.78,Mocha,Evening,In-store,HCM - District 3
+284,Elijah White,129,3,496.75,Tra Sen Vang,Morning,In-store,HCM - District 3
+285,Jacob Robinson,59,3,403.58,Latte,Evening,In-store,Hanoi - Cau Giay
+286,Benjamin Harris,45,2,253.69,Espresso,Afternoon,In-store,HCM - District 3
+287,Sophia Davis,127,4,433.74,Phin Sua,Afternoon,In-store,Da Nang
+288,Mason Thompson,21,4,304.45,Phin Den Da,Morning,App,HCM - District 1
+289,Mason Thompson,110,17,193.11,Espresso,Evening,Delivery,HCM - District 1
+290,Sophia Davis,90,7,427.98,Mocha,Afternoon,App,Hanoi - Cau Giay
+291,Abigail Jackson,178,13,388.68,Phin Sua,Evening,App,Hanoi - Hoan Kiem
+292,Lucas Martin,44,6,311.98,Tra Sen Vang,Morning,In-store,HCM - District 1
+293,Sophia Davis,133,4,151.01,Latte,Afternoon,In-store,Da Nang
+294,Benjamin Harris,173,15,388.96,Latte,Evening,Delivery,HCM - District 1
+295,Ava Garcia,174,13,426.06,Mocha,Morning,In-store,Hanoi - Cau Giay
+296,Evelyn Moore,141,12,215.93,Latte,Morning,App,HCM - District 3
+297,Elijah White,160,17,330.91,Cold Brew,Afternoon,App,Da Nang
+298,Harper Thomas,156,11,339.49,Mocha,Morning,In-store,HCM - District 1
+299,Emma Johnson,2,10,312.45,Tra Sen Vang,Evening,Delivery,HCM - District 3
+300,Logan Martinez,88,15,331.08,Espresso,Afternoon,Delivery,Hanoi - Cau Giay
+301,Logan Martinez,77,7,336.81,Espresso,Morning,In-store,Hanoi - Cau Giay
+302,Charlotte Anderson,174,18,382.04,Espresso,Morning,In-store,Da Nang
+303,Jacob Robinson,72,16,386.18,Mocha,Morning,In-store,HCM - District 1
+304,Ava Garcia,65,12,183.0,Espresso,Evening,In-store,Hanoi - Cau Giay
+305,Amelia Taylor,151,6,336.37,Latte,Morning,Delivery,HCM - District 1
+306,Charlotte Anderson,2,7,245.59,Phin Den Da,Evening,App,Hanoi - Cau Giay
+307,Evelyn Moore,36,14,333.65,Mocha,Afternoon,In-store,Hanoi - Hoan Kiem
+308,James Wilson,56,12,309.63,Phin Sua,Evening,App,Da Nang
+309,John Smith,69,12,158.97,Mocha,Afternoon,App,Da Nang
+310,Amelia Taylor,133,15,308.84,Phin Den Da,Evening,Delivery,Da Nang
+311,John Smith,76,15,547.07,Mocha,Afternoon,Delivery,Hanoi - Cau Giay
+312,John Smith,13,19,253.3,Tra Sen Vang,Evening,Delivery,Hanoi - Hoan Kiem
+313,Abigail Jackson,34,19,334.27,Freeze Tra Xanh,Morning,Delivery,HCM - District 1
+314,Olivia Williams,1,18,417.85,Freeze Tra Xanh,Morning,Delivery,HCM - District 1
+315,Harper Thomas,130,6,468.23,Phin Sua,Morning,App,HCM - District 3
+316,Emma Johnson,121,19,461.59,Latte,Evening,Delivery,HCM - District 1
+317,John Smith,52,2,383.88,Cold Brew,Morning,App,Da Nang
+318,Mason Thompson,68,13,79.06,Tra Sen Vang,Afternoon,Delivery,Da Nang
+319,Elijah White,9,19,243.84,Phin Den Da,Afternoon,App,Hanoi - Cau Giay
+320,Amelia Taylor,119,17,251.95,Phin Sua,Morning,App,Hanoi - Cau Giay
+321,Amelia Taylor,51,18,375.46,Phin Den Da,Morning,In-store,HCM - District 3
+322,Sophia Davis,120,19,454.47,Phin Den Da,Afternoon,App,Hanoi - Hoan Kiem
+323,Amelia Taylor,166,9,269.51,Tra Sen Vang,Afternoon,In-store,HCM - District 3
+324,Jacob Robinson,56,8,257.06,Tra Sen Vang,Evening,Delivery,Hanoi - Hoan Kiem
+325,Elijah White,141,19,201.09,Latte,Evening,Delivery,Da Nang
+326,Harper Thomas,128,2,208.06,Phin Sua,Afternoon,App,Hanoi - Hoan Kiem
+327,Logan Martinez,154,7,355.0,Phin Sua,Evening,App,HCM - District 3
+328,Evelyn Moore,43,17,487.8,Tra Sen Vang,Morning,In-store,Hanoi - Hoan Kiem
+329,Logan Martinez,106,14,332.22,Cold Brew,Morning,In-store,Hanoi - Cau Giay
+330,Emma Johnson,109,18,413.17,Phin Den Da,Evening,App,Hanoi - Hoan Kiem
+331,John Smith,156,3,197.82,Mocha,Evening,Delivery,Da Nang
+332,Abigail Jackson,33,17,311.64,Phin Den Da,Afternoon,Delivery,HCM - District 3
+333,Noah Jones,73,3,341.63,Tra Sen Vang,Morning,Delivery,HCM - District 3
+334,Charlotte Anderson,50,6,189.33,Latte,Morning,Delivery,HCM - District 1
+335,Harper Thomas,91,10,264.18,Espresso,Evening,App,HCM - District 3
+336,Elijah White,106,12,409.18,Latte,Morning,App,Da Nang
+337,Sophia Davis,115,10,247.99,Latte,Evening,Delivery,Hanoi - Hoan Kiem
+338,Olivia Williams,17,4,365.52,Latte,Afternoon,Delivery,HCM - District 1
+339,Logan Martinez,62,11,266.7,Tra Sen Vang,Morning,In-store,Hanoi - Cau Giay
+340,Evelyn Moore,138,12,369.11,Phin Den Da,Evening,App,HCM - District 1
+341,Ava Garcia,44,3,235.89,Mocha,Morning,Delivery,HCM - District 3
+342,Ava Garcia,179,1,379.18,Phin Sua,Morning,In-store,HCM - District 1
+343,Emma Johnson,131,8,332.18,Phin Den Da,Evening,Delivery,HCM - District 3
+344,Emma Johnson,108,17,533.92,Latte,Morning,Delivery,Hanoi - Hoan Kiem
+345,Lucas Martin,20,6,353.55,Tra Sen Vang,Evening,Delivery,Hanoi - Cau Giay
+346,Evelyn Moore,89,6,464.35,Latte,Morning,Delivery,Da Nang
+347,James Wilson,10,11,270.65,Tra Sen Vang,Morning,In-store,HCM - District 3
+348,Olivia Williams,30,12,183.38,Espresso,Morning,In-store,HCM - District 1
+349,Jacob Robinson,37,10,310.46,Cold Brew,Morning,In-store,HCM - District 1
+350,Jacob Robinson,144,15,338.9,Phin Sua,Morning,App,Hanoi - Cau Giay
+351,Lucas Martin,95,1,336.19,Phin Den Da,Evening,In-store,Hanoi - Hoan Kiem
+352,Noah Jones,67,4,220.11,Phin Den Da,Evening,Delivery,Hanoi - Cau Giay
+353,Isabella Miller,28,16,362.44,Cold Brew,Afternoon,In-store,HCM - District 1
+354,Logan Martinez,127,9,415.83,Espresso,Evening,App,HCM - District 1
+355,Liam Brown,131,7,311.85,Phin Sua,Evening,In-store,HCM - District 3
+356,Ava Garcia,155,7,310.46,Phin Den Da,Morning,In-store,Da Nang
+357,Elijah White,128,4,355.37,Espresso,Morning,In-store,HCM - District 1
+358,Amelia Taylor,170,9,512.76,Tra Sen Vang,Evening,Delivery,Da Nang
+359,Evelyn Moore,94,16,262.08,Tra Sen Vang,Evening,Delivery,Hanoi - Cau Giay
+360,Mason Thompson,72,15,268.37,Espresso,Evening,In-store,HCM - District 3
+361,Benjamin Harris,76,3,456.17,Freeze Tra Xanh,Morning,Delivery,HCM - District 3
+362,Logan Martinez,130,11,237.02,Phin Den Da,Afternoon,In-store,Da Nang
+363,Olivia Williams,29,4,299.8,Tra Sen Vang,Afternoon,Delivery,HCM - District 1
+364,Noah Jones,61,12,362.53,Espresso,Afternoon,In-store,HCM - District 3
+365,Olivia Williams,54,11,277.68,Phin Sua,Morning,In-store,HCM - District 1
+366,Amelia Taylor,92,17,257.47,Mocha,Afternoon,Delivery,Hanoi - Cau Giay
+367,Isabella Miller,122,18,578.39,Espresso,Evening,App,HCM - District 3
+368,Mason Thompson,6,3,291.54,Phin Sua,Afternoon,Delivery,Hanoi - Cau Giay
+369,Charlotte Anderson,152,18,212.79,Latte,Afternoon,In-store,Da Nang
+370,Amelia Taylor,131,19,350.45,Phin Den Da,Evening,In-store,Hanoi - Cau Giay
+371,John Smith,98,19,129.27,Espresso,Morning,Delivery,HCM - District 3
+372,James Wilson,81,4,362.78,Mocha,Afternoon,Delivery,Hanoi - Cau Giay
+373,Noah Jones,138,19,401.27,Tra Sen Vang,Afternoon,App,HCM - District 3
+374,Harper Thomas,48,1,237.06,Tra Sen Vang,Evening,In-store,HCM - District 1
+375,Elijah White,161,17,328.0,Espresso,Evening,App,Hanoi - Hoan Kiem
+376,Elijah White,112,10,445.01,Freeze Tra Xanh,Morning,Delivery,Hanoi - Hoan Kiem
+377,Lucas Martin,9,15,348.06,Espresso,Afternoon,App,Hanoi - Hoan Kiem
+378,Isabella Miller,6,19,247.27,Phin Den Da,Afternoon,Delivery,Hanoi - Cau Giay
+379,Mason Thompson,75,5,165.23,Cold Brew,Afternoon,In-store,Da Nang
+380,Elijah White,139,11,410.75,Espresso,Morning,In-store,Hanoi - Cau Giay
+381,Mason Thompson,98,12,330.49,Tra Sen Vang,Morning,App,Hanoi - Hoan Kiem
+382,Harper Thomas,46,4,336.74,Phin Den Da,Evening,App,Da Nang
+383,Evelyn Moore,46,4,363.38,Cold Brew,Afternoon,App,HCM - District 1
+384,James Wilson,139,17,529.0,Espresso,Evening,In-store,HCM - District 1
+385,Benjamin Harris,74,16,244.16,Cold Brew,Evening,App,Hanoi - Cau Giay
+386,John Smith,73,15,288.31,Phin Den Da,Evening,In-store,Hanoi - Cau Giay
+387,Elijah White,117,14,393.65,Cold Brew,Afternoon,In-store,Hanoi - Hoan Kiem
+388,Liam Brown,98,15,321.13,Phin Sua,Afternoon,App,Da Nang
+389,Evelyn Moore,62,10,238.21,Cold Brew,Morning,App,HCM - District 1
+390,Benjamin Harris,101,14,344.85,Phin Den Da,Evening,Delivery,HCM - District 3
+391,Harper Thomas,178,19,486.53,Phin Sua,Afternoon,Delivery,HCM - District 3
+392,Lucas Martin,103,12,217.12,Phin Sua,Evening,In-store,HCM - District 3
+393,Isabella Miller,69,6,208.83,Cold Brew,Evening,Delivery,HCM - District 3
+394,John Smith,170,14,198.07,Tra Sen Vang,Afternoon,App,HCM - District 3
+395,Jacob Robinson,91,12,124.61,Cold Brew,Evening,App,Hanoi - Cau Giay
+396,James Wilson,175,18,309.67,Phin Sua,Morning,In-store,Da Nang
+397,Evelyn Moore,108,7,135.32,Phin Den Da,Evening,Delivery,HCM - District 3
+398,Charlotte Anderson,78,2,369.19,Phin Den Da,Evening,In-store,Hanoi - Cau Giay
+399,Logan Martinez,7,13,335.24,Freeze Tra Xanh,Evening,App,Hanoi - Hoan Kiem
+400,Olivia Williams,175,9,524.39,Espresso,Morning,Delivery,HCM - District 1
+401,Liam Brown,137,1,267.35,Mocha,Evening,App,Da Nang
+402,Abigail Jackson,23,13,490.87,Phin Den Da,Evening,App,Hanoi - Hoan Kiem
+403,Lucas Martin,83,13,329.61,Mocha,Morning,In-store,HCM - District 3
+404,Abigail Jackson,140,12,343.83,Cold Brew,Evening,In-store,HCM - District 1
+405,Jacob Robinson,63,17,390.52,Latte,Afternoon,In-store,Hanoi - Cau Giay
+406,Mason Thompson,69,9,348.44,Phin Sua,Afternoon,App,Da Nang
+407,Benjamin Harris,113,15,378.12,Cold Brew,Evening,Delivery,Da Nang
+408,James Wilson,67,16,294.22,Phin Sua,Evening,Delivery,HCM - District 1
+409,Amelia Taylor,41,13,120.84,Tra Sen Vang,Afternoon,App,HCM - District 3
+410,James Wilson,157,8,452.37,Freeze Tra Xanh,Morning,App,Hanoi - Hoan Kiem
+411,Noah Jones,116,16,411.47,Cold Brew,Afternoon,Delivery,HCM - District 1
+412,Ava Garcia,149,6,399.94,Phin Den Da,Evening,Delivery,Hanoi - Hoan Kiem
+413,Olivia Williams,18,8,346.37,Phin Den Da,Evening,Delivery,HCM - District 3
+414,James Wilson,121,2,192.26,Freeze Tra Xanh,Afternoon,In-store,HCM - District 3
+415,Lucas Martin,149,10,167.64,Phin Sua,Afternoon,Delivery,Da Nang
+416,Ava Garcia,51,19,383.95,Espresso,Afternoon,App,Hanoi - Hoan Kiem
+417,Charlotte Anderson,116,5,228.19,Espresso,Afternoon,Delivery,HCM - District 1
+418,Harper Thomas,47,14,191.57,Cold Brew,Morning,Delivery,Hanoi - Cau Giay
+419,Mason Thompson,43,7,292.01,Latte,Afternoon,Delivery,Hanoi - Hoan Kiem
+420,Mason Thompson,5,8,65.78,Phin Den Da,Afternoon,Delivery,Hanoi - Cau Giay
+421,Isabella Miller,9,7,262.83,Espresso,Evening,App,Da Nang
+422,Jacob Robinson,147,18,441.33,Phin Sua,Afternoon,App,Hanoi - Hoan Kiem
+423,Evelyn Moore,28,12,294.33,Espresso,Morning,In-store,Hanoi - Hoan Kiem
+424,Liam Brown,6,2,289.01,Latte,Evening,Delivery,Da Nang
+425,Evelyn Moore,155,14,434.07,Freeze Tra Xanh,Evening,App,Hanoi - Cau Giay
+426,John Smith,60,9,280.76,Tra Sen Vang,Afternoon,In-store,HCM - District 3
+427,Benjamin Harris,49,12,421.88,Latte,Evening,In-store,Hanoi - Cau Giay
+428,Abigail Jackson,105,11,315.98,Phin Den Da,Evening,In-store,HCM - District 1
+429,Amelia Taylor,33,1,159.12,Espresso,Evening,In-store,HCM - District 1
+430,Elijah White,52,8,403.15,Cold Brew,Afternoon,App,HCM - District 1
+431,Abigail Jackson,75,14,128.93,Latte,Evening,In-store,Hanoi - Hoan Kiem
+432,Benjamin Harris,35,9,322.39,Freeze Tra Xanh,Morning,Delivery,Hanoi - Cau Giay
+433,Isabella Miller,146,19,340.56,Latte,Evening,Delivery,HCM - District 3
+434,Abigail Jackson,131,13,405.86,Espresso,Evening,Delivery,Hanoi - Cau Giay
+435,Olivia Williams,156,8,530.99,Tra Sen Vang,Morning,App,HCM - District 3
+436,Isabella Miller,170,15,306.48,Latte,Evening,In-store,HCM - District 1
+437,Liam Brown,11,17,458.93,Mocha,Evening,App,Da Nang
+438,Mason Thompson,15,18,416.46,Phin Den Da,Afternoon,App,HCM - District 1
+439,Evelyn Moore,39,13,283.12,Tra Sen Vang,Morning,App,Hanoi - Hoan Kiem
+440,Mason Thompson,124,12,245.13,Latte,Evening,App,HCM - District 3
+441,Harper Thomas,86,11,237.77,Phin Sua,Morning,App,Hanoi - Cau Giay
+442,Liam Brown,68,19,359.0,Espresso,Evening,In-store,HCM - District 3
+443,Harper Thomas,62,5,218.77,Cold Brew,Morning,In-store,Hanoi - Cau Giay
+444,Noah Jones,64,15,309.51,Latte,Morning,App,Da Nang
+445,Isabella Miller,66,3,262.64,Cold Brew,Morning,In-store,HCM - District 1
+446,Evelyn Moore,149,13,118.21,Mocha,Afternoon,Delivery,Hanoi - Hoan Kiem
+447,Liam Brown,176,11,399.37,Latte,Afternoon,App,HCM - District 3
+448,Jacob Robinson,177,10,362.31,Mocha,Afternoon,Delivery,Da Nang
+449,Abigail Jackson,113,11,383.5,Latte,Afternoon,App,Hanoi - Cau Giay
+450,Logan Martinez,6,17,267.13,Mocha,Afternoon,App,HCM - District 3
+451,Abigail Jackson,145,17,196.18,Latte,Afternoon,App,Hanoi - Hoan Kiem
+452,Sophia Davis,12,9,262.23,Phin Den Da,Evening,In-store,Hanoi - Hoan Kiem
+453,Isabella Miller,24,14,334.07,Latte,Afternoon,Delivery,Da Nang
+454,Benjamin Harris,126,14,70.49,Phin Sua,Evening,App,Hanoi - Cau Giay
+455,Charlotte Anderson,106,10,246.74,Espresso,Evening,Delivery,HCM - District 1
+456,Liam Brown,63,9,302.18,Espresso,Morning,Delivery,HCM - District 3
+457,Sophia Davis,5,4,405.34,Mocha,Evening,App,HCM - District 1
+458,Logan Martinez,35,7,157.35,Mocha,Afternoon,Delivery,Da Nang
+459,Logan Martinez,51,2,423.4,Phin Sua,Afternoon,In-store,Da Nang
+460,Lucas Martin,72,1,459.51,Freeze Tra Xanh,Afternoon,App,HCM - District 1
+461,Abigail Jackson,77,8,311.84,Phin Sua,Morning,App,Hanoi - Cau Giay
+462,Jacob Robinson,159,6,169.17,Phin Den Da,Morning,Delivery,Da Nang
+463,Noah Jones,131,10,407.46,Phin Den Da,Evening,App,HCM - District 3
+464,Harper Thomas,160,13,428.27,Cold Brew,Afternoon,Delivery,HCM - District 1
+465,Benjamin Harris,98,7,256.84,Latte,Evening,Delivery,Hanoi - Hoan Kiem
+466,Elijah White,58,19,332.66,Latte,Evening,In-store,HCM - District 3
+467,Emma Johnson,156,15,64.23,Latte,Evening,In-store,HCM - District 1
+468,John Smith,15,9,284.77,Freeze Tra Xanh,Afternoon,Delivery,Da Nang
+469,Elijah White,18,1,310.38,Phin Sua,Evening,Delivery,HCM - District 1
+470,James Wilson,52,17,248.48,Freeze Tra Xanh,Evening,Delivery,HCM - District 1
+471,Noah Jones,153,17,199.7,Cold Brew,Evening,App,HCM - District 3
+472,Lucas Martin,131,2,117.28,Cold Brew,Evening,Delivery,Hanoi - Cau Giay
+473,Charlotte Anderson,39,15,349.92,Espresso,Afternoon,App,Da Nang
+474,Logan Martinez,171,6,79.0,Phin Den Da,Evening,Delivery,HCM - District 3
+475,Elijah White,109,17,345.39,Latte,Evening,App,Da Nang
+476,Mason Thompson,138,16,326.58,Phin Den Da,Morning,In-store,Hanoi - Cau Giay
+477,John Smith,19,5,275.59,Mocha,Morning,In-store,Da Nang
+478,Lucas Martin,112,8,351.86,Freeze Tra Xanh,Evening,Delivery,HCM - District 3
+479,Mason Thompson,147,2,295.59,Phin Sua,Evening,In-store,Da Nang
+480,Abigail Jackson,130,1,268.21,Latte,Afternoon,In-store,Hanoi - Cau Giay
+481,Liam Brown,140,7,20.0,Cold Brew,Morning,Delivery,Da Nang
+482,Isabella Miller,25,1,199.87,Latte,Morning,In-store,Hanoi - Cau Giay
+483,Emma Johnson,40,11,281.8,Mocha,Afternoon,App,HCM - District 3
+484,Sophia Davis,172,10,394.22,Mocha,Afternoon,In-store,HCM - District 1
+485,Jacob Robinson,48,7,262.81,Espresso,Evening,In-store,HCM - District 1
+486,Amelia Taylor,173,3,171.63,Freeze Tra Xanh,Morning,App,Da Nang
+487,Olivia Williams,77,1,273.99,Latte,Morning,Delivery,HCM - District 3
+488,Noah Jones,120,13,312.39,Phin Sua,Evening,App,Hanoi - Hoan Kiem
+489,Amelia Taylor,9,4,412.78,Cold Brew,Morning,App,HCM - District 1
+490,James Wilson,91,4,220.98,Mocha,Morning,App,Da Nang
+491,Noah Jones,36,2,114.74,Phin Den Da,Evening,In-store,Hanoi - Cau Giay
+492,Sophia Davis,27,15,394.63,Espresso,Morning,App,HCM - District 3
+493,Ava Garcia,160,8,170.09,Phin Den Da,Evening,In-store,Hanoi - Hoan Kiem
+494,Benjamin Harris,152,15,411.73,Latte,Evening,In-store,Hanoi - Cau Giay
+495,Isabella Miller,93,11,407.04,Phin Den Da,Morning,App,Hanoi - Hoan Kiem
+496,Jacob Robinson,46,11,235.75,Freeze Tra Xanh,Morning,Delivery,HCM - District 1
+497,Liam Brown,144,6,330.78,Cold Brew,Morning,Delivery,HCM - District 3
+498,Harper Thomas,75,11,157.85,Espresso,Morning,Delivery,Hanoi - Hoan Kiem
+499,Abigail Jackson,81,7,282.0,Tra Sen Vang,Morning,In-store,HCM - District 3
+500,Logan Martinez,50,15,242.16,Freeze Tra Xanh,Afternoon,App,HCM - District 1
+501,John Smith,149,4,393.23,Freeze Tra Xanh,Morning,App,Hanoi - Cau Giay
+502,James Wilson,11,17,355.45,Phin Den Da,Afternoon,Delivery,Hanoi - Cau Giay
+503,John Smith,124,2,229.32,Espresso,Evening,App,HCM - District 1
+504,Lucas Martin,135,5,474.56,Latte,Afternoon,App,Hanoi - Cau Giay
+505,Benjamin Harris,39,6,388.97,Mocha,Afternoon,In-store,HCM - District 3
+506,Ava Garcia,151,14,388.88,Latte,Morning,Delivery,HCM - District 3
+507,Mason Thompson,40,9,349.36,Espresso,Evening,Delivery,Da Nang
+508,Liam Brown,45,12,276.98,Phin Den Da,Evening,In-store,HCM - District 3
+509,Ava Garcia,179,5,147.15,Phin Den Da,Morning,Delivery,Da Nang
+510,Sophia Davis,86,2,480.22,Cold Brew,Afternoon,App,HCM - District 3
+511,Evelyn Moore,163,10,269.95,Freeze Tra Xanh,Afternoon,In-store,HCM - District 3
+512,Charlotte Anderson,9,8,350.33,Mocha,Evening,App,Hanoi - Hoan Kiem
+513,Mason Thompson,77,6,407.25,Phin Den Da,Afternoon,Delivery,Hanoi - Hoan Kiem
+514,Mason Thompson,16,7,225.06,Phin Den Da,Afternoon,In-store,Hanoi - Hoan Kiem
+515,Emma Johnson,64,7,267.79,Espresso,Evening,Delivery,Hanoi - Cau Giay
+516,Liam Brown,45,2,304.84,Freeze Tra Xanh,Evening,Delivery,HCM - District 1
+517,Emma Johnson,116,6,320.93,Cold Brew,Evening,App,Hanoi - Hoan Kiem
+518,Harper Thomas,67,5,397.65,Phin Den Da,Evening,In-store,Hanoi - Hoan Kiem
+519,Isabella Miller,178,7,285.36,Freeze Tra Xanh,Evening,App,Hanoi - Cau Giay
+520,Noah Jones,142,17,225.8,Mocha,Morning,App,HCM - District 3
+521,Mason Thompson,21,3,576.71,Tra Sen Vang,Evening,Delivery,HCM - District 1
+522,Amelia Taylor,18,18,330.11,Tra Sen Vang,Evening,App,Hanoi - Cau Giay
+523,Ava Garcia,60,14,193.61,Freeze Tra Xanh,Evening,App,Hanoi - Cau Giay
+524,Amelia Taylor,95,18,110.17,Freeze Tra Xanh,Afternoon,In-store,Hanoi - Hoan Kiem
+525,Amelia Taylor,3,4,347.28,Latte,Morning,App,Hanoi - Hoan Kiem
+526,Elijah White,33,15,162.21,Freeze Tra Xanh,Afternoon,Delivery,HCM - District 3
+527,Ava Garcia,65,15,252.96,Mocha,Evening,App,Da Nang
+528,Olivia Williams,16,1,278.83,Cold Brew,Morning,Delivery,HCM - District 3
+529,Mason Thompson,129,19,325.3,Freeze Tra Xanh,Afternoon,Delivery,HCM - District 3
+530,Jacob Robinson,177,13,222.23,Phin Den Da,Evening,Delivery,Hanoi - Hoan Kiem
+531,Benjamin Harris,18,12,358.01,Latte,Evening,Delivery,HCM - District 1
+532,Elijah White,137,8,350.8,Espresso,Afternoon,Delivery,HCM - District 3
+533,Lucas Martin,94,4,302.48,Tra Sen Vang,Afternoon,In-store,HCM - District 3
+534,Charlotte Anderson,11,8,228.88,Latte,Afternoon,App,Hanoi - Cau Giay
+535,James Wilson,34,18,260.67,Tra Sen Vang,Evening,In-store,HCM - District 1
+536,Charlotte Anderson,151,16,209.16,Cold Brew,Morning,App,Hanoi - Hoan Kiem
+537,Noah Jones,154,9,388.45,Phin Sua,Evening,Delivery,Hanoi - Hoan Kiem
+538,Liam Brown,58,19,273.82,Espresso,Afternoon,Delivery,HCM - District 3
+539,Isabella Miller,168,4,246.59,Phin Den Da,Morning,In-store,HCM - District 1
+540,Mason Thompson,14,18,212.32,Latte,Evening,Delivery,Hanoi - Cau Giay
+541,Charlotte Anderson,80,14,371.9,Espresso,Morning,App,Hanoi - Hoan Kiem
+542,Ava Garcia,101,12,339.76,Phin Sua,Morning,In-store,HCM - District 1
+543,Isabella Miller,128,7,420.7,Phin Den Da,Afternoon,Delivery,Hanoi - Hoan Kiem
+544,Harper Thomas,172,5,304.06,Freeze Tra Xanh,Afternoon,App,Hanoi - Cau Giay
+545,Jacob Robinson,132,16,408.67,Cold Brew,Morning,App,Hanoi - Cau Giay
+546,James Wilson,110,11,277.79,Latte,Morning,In-store,Hanoi - Cau Giay
+547,Isabella Miller,108,11,235.54,Tra Sen Vang,Afternoon,In-store,Da Nang
+548,Amelia Taylor,165,10,291.59,Freeze Tra Xanh,Evening,Delivery,Hanoi - Cau Giay
+549,Mason Thompson,112,10,222.7,Freeze Tra Xanh,Afternoon,In-store,HCM - District 1
+550,Sophia Davis,25,10,173.32,Freeze Tra Xanh,Evening,Delivery,Hanoi - Cau Giay
+551,John Smith,84,12,243.84,Phin Den Da,Morning,Delivery,Hanoi - Cau Giay
+552,Harper Thomas,113,9,278.55,Phin Den Da,Afternoon,In-store,Hanoi - Hoan Kiem
+553,Mason Thompson,110,3,374.22,Latte,Morning,In-store,Da Nang
+554,Jacob Robinson,73,2,202.49,Espresso,Afternoon,In-store,HCM - District 1
+555,James Wilson,32,8,226.76,Espresso,Evening,In-store,Da Nang
+556,Logan Martinez,53,10,150.43,Mocha,Afternoon,In-store,Hanoi - Cau Giay
+557,Amelia Taylor,10,1,213.9,Phin Den Da,Evening,In-store,Da Nang
+558,Liam Brown,169,9,277.97,Freeze Tra Xanh,Evening,App,Hanoi - Hoan Kiem
+559,Evelyn Moore,79,10,565.52,Freeze Tra Xanh,Evening,App,Da Nang
+560,Lucas Martin,27,9,357.27,Phin Sua,Morning,Delivery,Hanoi - Hoan Kiem
+561,Harper Thomas,99,6,555.64,Tra Sen Vang,Evening,In-store,HCM - District 3
+562,Isabella Miller,130,2,255.15,Phin Den Da,Morning,App,Da Nang
+563,Lucas Martin,88,15,376.78,Phin Den Da,Evening,Delivery,Hanoi - Hoan Kiem
+564,Noah Jones,67,10,300.2,Phin Den Da,Morning,App,Hanoi - Cau Giay
+565,Benjamin Harris,131,10,359.91,Freeze Tra Xanh,Morning,In-store,HCM - District 3
+566,Charlotte Anderson,74,6,307.61,Espresso,Afternoon,Delivery,HCM - District 1
+567,James Wilson,48,15,357.48,Phin Den Da,Afternoon,App,Hanoi - Hoan Kiem
+568,John Smith,162,1,312.31,Phin Sua,Morning,Delivery,Da Nang
+569,Noah Jones,9,12,266.68,Espresso,Afternoon,Delivery,Hanoi - Cau Giay
+570,John Smith,83,16,394.92,Tra Sen Vang,Afternoon,Delivery,HCM - District 3
+571,Lucas Martin,78,7,337.11,Espresso,Morning,In-store,Hanoi - Hoan Kiem
+572,Mason Thompson,13,6,225.86,Freeze Tra Xanh,Morning,In-store,HCM - District 1
+573,Emma Johnson,112,4,364.55,Freeze Tra Xanh,Morning,App,Da Nang
+574,Lucas Martin,59,10,333.15,Cold Brew,Afternoon,In-store,HCM - District 1
+575,Emma Johnson,132,2,308.45,Cold Brew,Evening,In-store,Da Nang
+576,Jacob Robinson,129,11,478.19,Tra Sen Vang,Morning,App,HCM - District 3
+577,Harper Thomas,167,9,235.03,Tra Sen Vang,Afternoon,Delivery,Hanoi - Cau Giay
+578,Benjamin Harris,48,19,432.01,Phin Den Da,Evening,Delivery,Hanoi - Cau Giay
+579,James Wilson,135,12,501.2,Mocha,Afternoon,App,Hanoi - Cau Giay
+580,Benjamin Harris,152,11,342.53,Tra Sen Vang,Morning,In-store,HCM - District 3
+581,Harper Thomas,22,8,406.73,Freeze Tra Xanh,Morning,Delivery,HCM - District 1
+582,Liam Brown,164,5,390.57,Phin Den Da,Evening,App,Da Nang
+583,Emma Johnson,127,19,220.58,Latte,Afternoon,In-store,Hanoi - Cau Giay
+584,Amelia Taylor,100,15,277.23,Cold Brew,Evening,In-store,Da Nang
+585,Evelyn Moore,136,14,574.57,Phin Sua,Evening,Delivery,HCM - District 3
+586,Harper Thomas,71,3,302.57,Tra Sen Vang,Morning,In-store,HCM - District 3
+587,Evelyn Moore,3,3,120.55,Tra Sen Vang,Morning,App,HCM - District 3
+588,Olivia Williams,9,10,236.94,Tra Sen Vang,Evening,In-store,Da Nang
+589,John Smith,28,18,282.1,Mocha,Evening,In-store,HCM - District 3
+590,Abigail Jackson,176,8,134.35,Cold Brew,Evening,Delivery,HCM - District 1
+591,Elijah White,114,6,262.11,Tra Sen Vang,Afternoon,Delivery,Hanoi - Cau Giay
+592,Liam Brown,143,5,272.07,Tra Sen Vang,Morning,Delivery,HCM - District 3
+593,Ava Garcia,64,6,264.06,Cold Brew,Afternoon,In-store,Hanoi - Cau Giay
+594,Ava Garcia,65,16,309.24,Espresso,Evening,App,Hanoi - Cau Giay
+595,Evelyn Moore,118,15,487.06,Freeze Tra Xanh,Morning,In-store,Hanoi - Cau Giay
+596,Ava Garcia,9,7,284.89,Latte,Morning,In-store,HCM - District 1
+597,Jacob Robinson,80,8,206.22,Phin Den Da,Afternoon,App,Hanoi - Cau Giay
+598,James Wilson,18,9,573.32,Freeze Tra Xanh,Afternoon,Delivery,HCM - District 1
+599,Noah Jones,154,14,319.76,Tra Sen Vang,Afternoon,Delivery,HCM - District 1
+600,Lucas Martin,72,19,329.16,Tra Sen Vang,Evening,In-store,Da Nang
+601,Benjamin Harris,176,16,292.56,Mocha,Evening,App,HCM - District 3
+602,Sophia Davis,152,3,100.26,Espresso,Afternoon,In-store,HCM - District 3
+603,Harper Thomas,81,13,171.46,Tra Sen Vang,Evening,Delivery,Hanoi - Hoan Kiem
+604,Abigail Jackson,26,18,171.02,Cold Brew,Evening,App,HCM - District 1
+605,James Wilson,10,1,319.3,Mocha,Afternoon,In-store,HCM - District 1
+606,Noah Jones,2,17,364.6,Tra Sen Vang,Afternoon,Delivery,Hanoi - Cau Giay
+607,Benjamin Harris,179,8,295.84,Phin Sua,Morning,In-store,HCM - District 1
+608,Elijah White,96,19,193.75,Latte,Afternoon,In-store,Hanoi - Cau Giay
+609,Benjamin Harris,84,6,277.54,Espresso,Morning,Delivery,Da Nang
+610,Ava Garcia,105,16,329.19,Phin Sua,Evening,App,Hanoi - Hoan Kiem
+611,Charlotte Anderson,110,2,407.61,Tra Sen Vang,Morning,App,Da Nang
+612,Amelia Taylor,114,5,96.82,Phin Den Da,Evening,Delivery,HCM - District 3
+613,James Wilson,157,9,411.48,Espresso,Morning,Delivery,HCM - District 3
+614,Harper Thomas,40,11,233.95,Latte,Evening,App,Da Nang
+615,Sophia Davis,165,5,226.56,Cold Brew,Evening,App,HCM - District 1
+616,Noah Jones,175,6,318.86,Espresso,Morning,App,HCM - District 3
+617,Sophia Davis,79,11,415.31,Tra Sen Vang,Evening,Delivery,Da Nang
+618,Abigail Jackson,94,17,318.1,Mocha,Morning,In-store,Hanoi - Cau Giay
+619,Sophia Davis,22,12,456.51,Freeze Tra Xanh,Morning,In-store,Hanoi - Hoan Kiem
+620,Emma Johnson,130,11,382.86,Cold Brew,Afternoon,In-store,Hanoi - Cau Giay
+621,Jacob Robinson,37,12,258.26,Espresso,Afternoon,Delivery,HCM - District 3
+622,Jacob Robinson,39,13,531.42,Mocha,Morning,App,Hanoi - Cau Giay
+623,Emma Johnson,125,6,238.17,Phin Den Da,Morning,Delivery,Hanoi - Cau Giay
+624,Liam Brown,85,17,262.7,Espresso,Evening,In-store,HCM - District 1
+625,Isabella Miller,114,16,424.93,Mocha,Afternoon,Delivery,Hanoi - Cau Giay
+626,Elijah White,56,14,254.44,Phin Den Da,Morning,Delivery,HCM - District 3
+627,Benjamin Harris,151,13,149.48,Tra Sen Vang,Evening,App,Da Nang
+628,Ava Garcia,61,11,382.14,Latte,Evening,In-store,Hanoi - Cau Giay
+629,Abigail Jackson,99,18,299.01,Latte,Evening,App,Da Nang
+630,Jacob Robinson,72,9,196.92,Phin Sua,Evening,Delivery,Hanoi - Cau Giay
+631,Abigail Jackson,172,2,300.32,Phin Sua,Evening,App,HCM - District 3
+632,Elijah White,72,3,205.22,Cold Brew,Evening,Delivery,HCM - District 1
+633,Elijah White,3,14,405.06,Mocha,Evening,In-store,HCM - District 1
+634,Abigail Jackson,175,14,344.68,Tra Sen Vang,Evening,In-store,Hanoi - Cau Giay
+635,Jacob Robinson,5,5,131.41,Latte,Morning,App,Da Nang
+636,Logan Martinez,19,19,314.52,Phin Den Da,Morning,App,HCM - District 1
+637,Jacob Robinson,60,2,122.88,Latte,Afternoon,App,HCM - District 1
+638,Sophia Davis,125,5,220.37,Tra Sen Vang,Morning,In-store,Da Nang
+639,Logan Martinez,9,14,223.83,Mocha,Evening,App,HCM - District 1
+640,Evelyn Moore,52,6,395.65,Latte,Afternoon,Delivery,Hanoi - Hoan Kiem
+641,Benjamin Harris,153,16,182.82,Espresso,Morning,Delivery,HCM - District 3
+642,Logan Martinez,8,1,237.73,Espresso,Afternoon,In-store,HCM - District 3
+643,Jacob Robinson,27,12,245.61,Cold Brew,Morning,In-store,Hanoi - Hoan Kiem
+644,Lucas Martin,91,18,384.55,Latte,Morning,App,HCM - District 3
+645,Evelyn Moore,96,3,341.02,Latte,Morning,Delivery,HCM - District 3
+646,Noah Jones,95,3,347.0,Cold Brew,Morning,App,Hanoi - Cau Giay
+647,Elijah White,169,6,326.19,Tra Sen Vang,Afternoon,Delivery,Hanoi - Hoan Kiem
+648,Amelia Taylor,177,7,398.21,Latte,Morning,App,Hanoi - Cau Giay
+649,Olivia Williams,64,6,121.73,Espresso,Afternoon,Delivery,HCM - District 1
+650,Ava Garcia,147,4,319.22,Cold Brew,Morning,App,Da Nang
+651,Benjamin Harris,139,1,221.79,Mocha,Afternoon,In-store,Hanoi - Cau Giay
+652,Isabella Miller,71,2,342.36,Mocha,Evening,In-store,Hanoi - Hoan Kiem
+653,Elijah White,125,8,235.84,Phin Sua,Morning,App,Da Nang
+654,John Smith,123,8,282.71,Latte,Afternoon,Delivery,HCM - District 3
+655,Amelia Taylor,33,2,254.25,Tra Sen Vang,Morning,App,HCM - District 1
+656,Abigail Jackson,175,18,329.96,Latte,Evening,In-store,Hanoi - Hoan Kiem
+657,Noah Jones,127,2,354.55,Latte,Morning,In-store,Da Nang
+658,Liam Brown,47,8,304.77,Cold Brew,Afternoon,App,Da Nang
+659,Charlotte Anderson,154,11,417.46,Phin Sua,Morning,Delivery,HCM - District 3
+660,Noah Jones,81,6,283.2,Phin Sua,Morning,In-store,Da Nang
+661,Mason Thompson,113,9,358.09,Espresso,Afternoon,App,HCM - District 1
+662,Logan Martinez,73,3,202.53,Mocha,Evening,Delivery,Hanoi - Hoan Kiem
+663,Olivia Williams,51,14,286.61,Phin Sua,Afternoon,App,Da Nang
+664,Emma Johnson,13,19,269.93,Mocha,Morning,Delivery,Hanoi - Hoan Kiem
+665,Noah Jones,46,19,312.18,Phin Den Da,Afternoon,In-store,HCM - District 3
+666,Evelyn Moore,24,14,159.94,Phin Den Da,Morning,Delivery,Da Nang
+667,Liam Brown,49,9,347.6,Mocha,Afternoon,In-store,Hanoi - Hoan Kiem
+668,Isabella Miller,7,18,218.46,Freeze Tra Xanh,Evening,In-store,Da Nang
+669,Olivia Williams,165,3,462.17,Freeze Tra Xanh,Afternoon,In-store,HCM - District 3
+670,Jacob Robinson,21,3,278.83,Cold Brew,Morning,App,Hanoi - Cau Giay
+671,Ava Garcia,34,12,196.81,Espresso,Morning,In-store,Da Nang
+672,Benjamin Harris,94,7,250.59,Espresso,Morning,Delivery,HCM - District 1
+673,Olivia Williams,58,1,251.8,Tra Sen Vang,Morning,In-store,Hanoi - Hoan Kiem
+674,Olivia Williams,137,7,277.25,Phin Den Da,Afternoon,In-store,HCM - District 1
+675,Liam Brown,56,5,311.76,Mocha,Afternoon,In-store,Hanoi - Cau Giay
+676,Sophia Davis,116,5,287.49,Phin Den Da,Morning,In-store,HCM - District 1
+677,Benjamin Harris,55,2,437.81,Latte,Evening,In-store,Hanoi - Cau Giay
+678,Isabella Miller,51,4,313.7,Tra Sen Vang,Morning,App,Hanoi - Hoan Kiem
+679,Benjamin Harris,22,15,184.34,Phin Den Da,Morning,App,HCM - District 1
+680,Harper Thomas,38,18,340.69,Phin Den Da,Afternoon,In-store,Hanoi - Hoan Kiem
+681,Evelyn Moore,19,2,260.01,Tra Sen Vang,Morning,App,HCM - District 3
+682,James Wilson,135,2,239.27,Latte,Morning,Delivery,Hanoi - Hoan Kiem
+683,Ava Garcia,137,1,388.28,Phin Den Da,Evening,In-store,Hanoi - Hoan Kiem
+684,Benjamin Harris,22,10,262.01,Mocha,Evening,In-store,HCM - District 1
+685,Logan Martinez,134,2,382.37,Latte,Evening,In-store,Hanoi - Cau Giay
+686,Benjamin Harris,117,3,235.96,Phin Den Da,Evening,Delivery,Da Nang
+687,Logan Martinez,71,19,290.93,Cold Brew,Evening,App,HCM - District 3
+688,Isabella Miller,26,17,256.75,Tra Sen Vang,Evening,Delivery,Da Nang
+689,Evelyn Moore,144,3,420.75,Phin Sua,Morning,App,Hanoi - Hoan Kiem
+690,Abigail Jackson,3,18,147.33,Phin Sua,Evening,Delivery,Hanoi - Hoan Kiem
+691,Charlotte Anderson,82,18,316.19,Phin Den Da,Morning,App,HCM - District 3
+692,Charlotte Anderson,42,16,166.88,Cold Brew,Evening,In-store,Hanoi - Hoan Kiem
+693,Elijah White,164,15,414.5,Mocha,Afternoon,In-store,HCM - District 3
+694,Benjamin Harris,10,14,422.58,Cold Brew,Morning,Delivery,Hanoi - Cau Giay
+695,Jacob Robinson,157,1,173.35,Cold Brew,Evening,In-store,HCM - District 1
+696,Charlotte Anderson,43,1,277.19,Phin Den Da,Afternoon,Delivery,Hanoi - Hoan Kiem
+697,Jacob Robinson,28,3,285.43,Tra Sen Vang,Morning,In-store,HCM - District 3
+698,Ava Garcia,24,15,435.41,Phin Den Da,Morning,In-store,HCM - District 1
+699,Elijah White,128,16,202.56,Phin Den Da,Evening,Delivery,Da Nang
+700,Jacob Robinson,99,12,157.24,Phin Sua,Afternoon,Delivery,Da Nang
+701,Isabella Miller,39,12,420.85,Phin Den Da,Afternoon,In-store,Da Nang
+702,Benjamin Harris,121,12,307.89,Tra Sen Vang,Morning,App,Hanoi - Cau Giay
+703,James Wilson,18,4,295.34,Espresso,Morning,App,HCM - District 3
+704,Emma Johnson,135,10,177.02,Phin Sua,Morning,Delivery,HCM - District 3
+705,Elijah White,120,19,392.97,Espresso,Morning,Delivery,Da Nang
+706,Jacob Robinson,120,11,303.26,Mocha,Morning,In-store,Hanoi - Hoan Kiem
+707,Abigail Jackson,79,13,221.6,Phin Sua,Morning,In-store,Da Nang
+708,Jacob Robinson,13,5,397.17,Freeze Tra Xanh,Afternoon,In-store,Hanoi - Hoan Kiem
+709,Logan Martinez,49,14,383.86,Freeze Tra Xanh,Afternoon,Delivery,Da Nang
+710,John Smith,3,3,374.04,Latte,Afternoon,Delivery,Da Nang
+711,Benjamin Harris,129,1,245.5,Cold Brew,Afternoon,In-store,HCM - District 1
+712,Elijah White,91,11,412.98,Phin Sua,Evening,App,HCM - District 1
+713,Evelyn Moore,155,1,363.56,Freeze Tra Xanh,Evening,Delivery,HCM - District 3
+714,Jacob Robinson,132,18,414.05,Tra Sen Vang,Morning,App,Hanoi - Hoan Kiem
+715,Amelia Taylor,127,2,305.1,Phin Den Da,Afternoon,Delivery,HCM - District 1
+716,Liam Brown,117,9,435.08,Phin Den Da,Afternoon,In-store,HCM - District 1
+717,Noah Jones,128,19,381.36,Tra Sen Vang,Evening,In-store,HCM - District 3
+718,Benjamin Harris,126,10,348.59,Phin Sua,Morning,Delivery,Da Nang
+719,Logan Martinez,92,1,297.46,Tra Sen Vang,Morning,App,Hanoi - Cau Giay
+720,John Smith,40,3,395.73,Phin Den Da,Afternoon,App,Hanoi - Hoan Kiem
+721,Evelyn Moore,46,16,392.54,Phin Den Da,Morning,Delivery,Hanoi - Hoan Kiem
+722,Benjamin Harris,12,13,362.13,Freeze Tra Xanh,Evening,App,HCM - District 3
+723,Emma Johnson,179,19,395.89,Latte,Afternoon,In-store,HCM - District 3
+724,Isabella Miller,170,13,369.1,Phin Den Da,Morning,In-store,HCM - District 1
+725,Benjamin Harris,99,3,183.3,Cold Brew,Morning,In-store,HCM - District 1
+726,Harper Thomas,164,11,264.01,Cold Brew,Evening,Delivery,HCM - District 3
+727,John Smith,93,10,289.89,Mocha,Morning,Delivery,Hanoi - Cau Giay
+728,Sophia Davis,123,1,339.17,Mocha,Evening,In-store,HCM - District 1
+729,Sophia Davis,115,5,470.38,Latte,Evening,In-store,Hanoi - Cau Giay
+730,Jacob Robinson,114,10,49.08,Espresso,Evening,In-store,HCM - District 1
+731,Liam Brown,29,9,118.41,Phin Sua,Evening,Delivery,HCM - District 3
+732,Benjamin Harris,82,6,229.6,Tra Sen Vang,Morning,In-store,Da Nang
+733,Benjamin Harris,140,3,286.41,Mocha,Afternoon,App,Hanoi - Cau Giay
+734,John Smith,160,6,290.59,Tra Sen Vang,Afternoon,In-store,Hanoi - Cau Giay
+735,Olivia Williams,46,11,291.3,Latte,Afternoon,App,Hanoi - Cau Giay
+736,Evelyn Moore,175,9,487.65,Phin Den Da,Evening,Delivery,Hanoi - Hoan Kiem
+737,Amelia Taylor,13,19,404.46,Freeze Tra Xanh,Evening,Delivery,Da Nang
+738,Noah Jones,143,6,371.28,Mocha,Evening,Delivery,HCM - District 3
+739,Abigail Jackson,23,10,197.53,Latte,Evening,Delivery,HCM - District 3
+740,Sophia Davis,71,5,544.11,Freeze Tra Xanh,Morning,In-store,Da Nang
+741,Jacob Robinson,144,13,318.31,Cold Brew,Evening,Delivery,HCM - District 1
+742,Noah Jones,92,4,350.22,Phin Sua,Afternoon,App,Hanoi - Hoan Kiem
+743,Charlotte Anderson,146,16,175.05,Latte,Afternoon,App,HCM - District 3
+744,Evelyn Moore,70,11,320.14,Mocha,Afternoon,Delivery,Da Nang
+745,John Smith,54,14,202.72,Latte,Morning,App,Hanoi - Cau Giay
+746,Emma Johnson,173,2,187.82,Latte,Afternoon,App,Hanoi - Cau Giay
+747,Jacob Robinson,174,8,331.32,Phin Den Da,Morning,In-store,Da Nang
+748,Logan Martinez,64,7,183.87,Phin Sua,Evening,App,Hanoi - Hoan Kiem
+749,Olivia Williams,65,11,343.85,Phin Den Da,Evening,In-store,Da Nang
+750,Logan Martinez,160,3,118.34,Mocha,Morning,In-store,Hanoi - Cau Giay
+751,Amelia Taylor,111,3,237.44,Mocha,Evening,In-store,HCM - District 1
+752,Benjamin Harris,24,17,403.05,Mocha,Morning,In-store,Da Nang
+753,Benjamin Harris,68,8,454.03,Freeze Tra Xanh,Afternoon,In-store,Hanoi - Hoan Kiem
+754,Amelia Taylor,52,10,238.04,Freeze Tra Xanh,Evening,App,Da Nang
+755,Ava Garcia,130,18,178.98,Mocha,Morning,App,Hanoi - Hoan Kiem
+756,John Smith,132,18,387.53,Phin Sua,Afternoon,In-store,Da Nang
+757,Lucas Martin,56,16,313.85,Tra Sen Vang,Afternoon,Delivery,HCM - District 1
+758,Lucas Martin,58,4,284.77,Espresso,Evening,In-store,Hanoi - Cau Giay
+759,Amelia Taylor,149,2,327.69,Espresso,Morning,In-store,HCM - District 3
+760,Lucas Martin,47,1,426.87,Mocha,Evening,App,Hanoi - Hoan Kiem
+761,Logan Martinez,76,5,257.27,Cold Brew,Morning,In-store,Hanoi - Cau Giay
+762,Elijah White,83,13,314.76,Phin Sua,Evening,Delivery,HCM - District 3
+763,Isabella Miller,122,16,405.73,Latte,Afternoon,App,Hanoi - Cau Giay
+764,Sophia Davis,147,19,450.8,Freeze Tra Xanh,Evening,In-store,Da Nang
+765,Sophia Davis,150,10,318.57,Latte,Morning,App,Hanoi - Hoan Kiem
+766,Amelia Taylor,113,1,296.43,Phin Sua,Morning,Delivery,HCM - District 1
+767,Ava Garcia,158,16,86.19,Latte,Morning,App,Hanoi - Hoan Kiem
+768,James Wilson,65,14,379.97,Espresso,Morning,In-store,Hanoi - Cau Giay
+769,Lucas Martin,16,19,239.98,Phin Den Da,Evening,App,HCM - District 3
+770,Noah Jones,173,13,452.33,Cold Brew,Afternoon,In-store,Hanoi - Cau Giay
+771,Liam Brown,59,9,187.73,Latte,Evening,In-store,Da Nang
+772,Isabella Miller,21,2,167.32,Mocha,Morning,Delivery,HCM - District 1
+773,Elijah White,129,19,371.95,Phin Sua,Afternoon,Delivery,HCM - District 1
+774,Logan Martinez,137,1,267.47,Phin Den Da,Evening,App,Hanoi - Cau Giay
+775,John Smith,163,10,187.26,Phin Den Da,Evening,In-store,Hanoi - Hoan Kiem
+776,Ava Garcia,131,10,455.59,Phin Sua,Morning,In-store,Hanoi - Hoan Kiem
+777,Logan Martinez,120,12,277.52,Mocha,Afternoon,In-store,Da Nang
+778,Liam Brown,1,10,331.18,Freeze Tra Xanh,Afternoon,Delivery,Hanoi - Cau Giay
+779,Charlotte Anderson,55,6,342.33,Phin Sua,Evening,In-store,Hanoi - Hoan Kiem
+780,Olivia Williams,69,10,350.79,Freeze Tra Xanh,Afternoon,App,Hanoi - Hoan Kiem
+781,Isabella Miller,150,4,204.69,Phin Den Da,Morning,Delivery,HCM - District 3
+782,Benjamin Harris,166,16,124.4,Mocha,Afternoon,Delivery,Da Nang
+783,Noah Jones,32,4,327.58,Mocha,Afternoon,App,Hanoi - Cau Giay
+784,Ava Garcia,108,5,285.24,Phin Den Da,Afternoon,In-store,Da Nang
+785,Lucas Martin,27,2,404.0,Mocha,Morning,App,Da Nang
+786,Benjamin Harris,168,14,171.49,Espresso,Evening,Delivery,HCM - District 3
+787,Benjamin Harris,125,19,534.37,Freeze Tra Xanh,Afternoon,In-store,Da Nang
+788,Sophia Davis,106,5,241.36,Latte,Evening,App,HCM - District 1
+789,Abigail Jackson,49,7,396.21,Phin Sua,Morning,In-store,HCM - District 1
+790,Evelyn Moore,96,10,367.29,Espresso,Morning,App,Hanoi - Hoan Kiem
+791,John Smith,157,9,317.47,Phin Den Da,Evening,App,HCM - District 3
+792,Logan Martinez,59,18,331.21,Phin Den Da,Afternoon,App,HCM - District 1
+793,Liam Brown,171,6,363.64,Phin Den Da,Evening,Delivery,Hanoi - Hoan Kiem
+794,Abigail Jackson,93,8,237.16,Phin Den Da,Morning,In-store,HCM - District 1
+795,Olivia Williams,114,11,185.16,Mocha,Morning,App,Da Nang
+796,Noah Jones,109,7,376.01,Freeze Tra Xanh,Evening,In-store,Hanoi - Cau Giay
+797,Liam Brown,170,9,276.64,Cold Brew,Afternoon,App,Da Nang
+798,Elijah White,127,4,320.0,Phin Den Da,Afternoon,In-store,Hanoi - Hoan Kiem
+799,Jacob Robinson,147,1,399.92,Cold Brew,Evening,App,HCM - District 1
+800,John Smith,94,13,373.61,Phin Sua,Evening,Delivery,HCM - District 3
+801,James Wilson,7,4,322.5,Tra Sen Vang,Evening,Delivery,Hanoi - Cau Giay
+802,Amelia Taylor,68,17,300.59,Phin Sua,Evening,Delivery,HCM - District 3
+803,John Smith,119,18,240.77,Freeze Tra Xanh,Evening,In-store,HCM - District 1
+804,Jacob Robinson,18,8,354.55,Espresso,Afternoon,In-store,Hanoi - Cau Giay
+805,Sophia Davis,47,7,573.88,Phin Den Da,Afternoon,App,Da Nang
+806,Noah Jones,93,13,393.64,Espresso,Morning,In-store,HCM - District 1
+807,Noah Jones,159,12,395.27,Latte,Morning,App,Da Nang
+808,James Wilson,169,8,198.38,Phin Den Da,Afternoon,App,HCM - District 1
+809,Harper Thomas,105,19,390.76,Phin Sua,Evening,In-store,Hanoi - Cau Giay
+810,Emma Johnson,132,13,286.68,Phin Sua,Morning,In-store,Hanoi - Cau Giay
+811,James Wilson,25,6,115.25,Cold Brew,Afternoon,Delivery,HCM - District 1
+812,John Smith,153,18,256.62,Cold Brew,Evening,App,Hanoi - Cau Giay
+813,Logan Martinez,85,3,145.79,Espresso,Evening,Delivery,Hanoi - Cau Giay
+814,Jacob Robinson,95,12,431.61,Freeze Tra Xanh,Morning,Delivery,Hanoi - Cau Giay
+815,Jacob Robinson,82,7,186.86,Freeze Tra Xanh,Morning,App,Da Nang
+816,Sophia Davis,80,2,248.33,Espresso,Evening,In-store,Hanoi - Hoan Kiem
+817,Evelyn Moore,163,2,91.01,Tra Sen Vang,Morning,Delivery,HCM - District 1
+818,Olivia Williams,114,10,158.3,Phin Den Da,Morning,In-store,HCM - District 3
+819,Noah Jones,8,8,407.14,Tra Sen Vang,Evening,Delivery,HCM - District 3
+820,Abigail Jackson,128,19,294.09,Tra Sen Vang,Morning,App,Da Nang
+821,Logan Martinez,104,13,562.47,Cold Brew,Evening,In-store,HCM - District 3
+822,Mason Thompson,103,11,231.56,Espresso,Evening,App,Hanoi - Cau Giay
+823,Charlotte Anderson,163,17,106.4,Phin Den Da,Afternoon,App,Hanoi - Cau Giay
+824,Amelia Taylor,126,19,308.99,Latte,Morning,In-store,Hanoi - Cau Giay
+825,James Wilson,76,9,328.85,Mocha,Morning,Delivery,Hanoi - Hoan Kiem
+826,Harper Thomas,86,14,489.22,Espresso,Afternoon,App,Hanoi - Cau Giay
+827,Sophia Davis,148,17,287.59,Mocha,Evening,Delivery,HCM - District 3
+828,Evelyn Moore,113,6,292.79,Espresso,Afternoon,App,HCM - District 1
+829,Evelyn Moore,76,15,338.85,Espresso,Evening,App,Hanoi - Cau Giay
+830,Liam Brown,19,13,207.72,Latte,Afternoon,App,HCM - District 3
+831,Evelyn Moore,25,17,103.92,Espresso,Morning,In-store,Hanoi - Hoan Kiem
+832,Charlotte Anderson,23,13,238.66,Tra Sen Vang,Morning,App,HCM - District 3
+833,Logan Martinez,25,3,241.27,Freeze Tra Xanh,Morning,In-store,Hanoi - Hoan Kiem
+834,Elijah White,60,6,153.33,Freeze Tra Xanh,Afternoon,App,Da Nang
+835,Elijah White,54,18,305.5,Cold Brew,Morning,In-store,Da Nang
+836,Isabella Miller,48,12,515.59,Phin Sua,Afternoon,App,Da Nang
+837,Logan Martinez,113,10,389.85,Mocha,Evening,In-store,HCM - District 1
+838,Benjamin Harris,26,18,297.58,Mocha,Evening,In-store,HCM - District 3
+839,John Smith,109,14,367.75,Cold Brew,Afternoon,Delivery,HCM - District 3
+840,Sophia Davis,69,8,369.2,Phin Sua,Evening,Delivery,HCM - District 3
+841,James Wilson,12,4,487.4,Espresso,Afternoon,In-store,Hanoi - Cau Giay
+842,Amelia Taylor,45,8,75.86,Mocha,Afternoon,Delivery,HCM - District 3
+843,Emma Johnson,158,18,345.46,Tra Sen Vang,Evening,In-store,HCM - District 1
+844,Isabella Miller,8,18,487.88,Phin Den Da,Afternoon,App,Da Nang
+845,Jacob Robinson,75,4,298.11,Phin Den Da,Evening,Delivery,Hanoi - Cau Giay
+846,Ava Garcia,86,18,474.03,Phin Sua,Morning,App,HCM - District 3
+847,Noah Jones,10,6,357.34,Latte,Evening,In-store,HCM - District 3
+848,Elijah White,152,1,209.89,Tra Sen Vang,Morning,App,HCM - District 3
+849,Benjamin Harris,171,8,263.31,Cold Brew,Afternoon,In-store,HCM - District 3
+850,Amelia Taylor,81,7,269.23,Phin Sua,Evening,App,Da Nang
+851,Evelyn Moore,96,2,106.35,Phin Den Da,Morning,In-store,Da Nang
+852,Olivia Williams,78,3,385.54,Phin Sua,Evening,In-store,Hanoi - Hoan Kiem
+853,Isabella Miller,62,2,272.74,Espresso,Evening,In-store,HCM - District 1
+854,Sophia Davis,168,14,242.32,Latte,Evening,In-store,Hanoi - Hoan Kiem
+855,Ava Garcia,154,15,180.12,Freeze Tra Xanh,Evening,Delivery,HCM - District 3
+856,Logan Martinez,33,7,207.08,Cold Brew,Evening,Delivery,HCM - District 3
+857,Amelia Taylor,36,14,249.06,Tra Sen Vang,Evening,In-store,Hanoi - Hoan Kiem
+858,Olivia Williams,3,18,303.18,Tra Sen Vang,Afternoon,In-store,HCM - District 1
+859,Liam Brown,103,2,278.23,Latte,Afternoon,App,Hanoi - Cau Giay
+860,Abigail Jackson,15,10,319.76,Mocha,Evening,Delivery,HCM - District 3
+861,John Smith,27,6,391.78,Phin Sua,Afternoon,App,HCM - District 3
+862,Mason Thompson,99,18,245.69,Phin Den Da,Evening,App,Hanoi - Hoan Kiem
+863,Lucas Martin,110,2,311.73,Mocha,Morning,In-store,Hanoi - Cau Giay
+864,Noah Jones,4,15,214.14,Tra Sen Vang,Morning,In-store,Hanoi - Hoan Kiem
+865,Benjamin Harris,177,11,191.44,Cold Brew,Evening,In-store,HCM - District 1
+866,Evelyn Moore,29,2,362.07,Latte,Afternoon,In-store,HCM - District 1
+867,Lucas Martin,26,18,43.07,Tra Sen Vang,Evening,Delivery,HCM - District 3
+868,Isabella Miller,51,1,128.53,Espresso,Morning,Delivery,HCM - District 1
+869,Benjamin Harris,40,14,306.05,Freeze Tra Xanh,Afternoon,Delivery,HCM - District 1
+870,Sophia Davis,66,2,295.01,Cold Brew,Afternoon,App,HCM - District 1
+871,Amelia Taylor,22,18,316.75,Espresso,Afternoon,App,Da Nang
+872,Amelia Taylor,149,5,472.21,Latte,Evening,In-store,Hanoi - Hoan Kiem
+873,Benjamin Harris,13,4,312.95,Freeze Tra Xanh,Evening,App,Da Nang
+874,James Wilson,118,18,270.89,Cold Brew,Afternoon,Delivery,Hanoi - Cau Giay
+875,James Wilson,87,15,330.74,Phin Sua,Morning,App,HCM - District 3
+876,Abigail Jackson,34,12,359.82,Espresso,Afternoon,In-store,Da Nang
+877,Lucas Martin,85,12,398.16,Espresso,Afternoon,Delivery,Da Nang
+878,Jacob Robinson,3,11,315.42,Cold Brew,Afternoon,In-store,Da Nang
+879,Elijah White,74,16,398.26,Mocha,Afternoon,Delivery,HCM - District 1
+880,John Smith,100,10,285.64,Cold Brew,Morning,In-store,Da Nang
+881,John Smith,9,17,193.84,Phin Den Da,Morning,In-store,Hanoi - Cau Giay
+882,Emma Johnson,101,11,308.83,Latte,Evening,In-store,HCM - District 3
+883,Liam Brown,41,12,334.99,Freeze Tra Xanh,Morning,In-store,HCM - District 3
+884,Evelyn Moore,95,14,423.1,Phin Sua,Morning,In-store,HCM - District 3
+885,Liam Brown,15,17,272.83,Freeze Tra Xanh,Morning,App,Hanoi - Cau Giay
+886,Harper Thomas,158,15,256.53,Cold Brew,Evening,In-store,HCM - District 3
+887,Benjamin Harris,118,1,308.78,Phin Sua,Morning,In-store,Da Nang
+888,Logan Martinez,115,3,63.81,Tra Sen Vang,Afternoon,App,Hanoi - Hoan Kiem
+889,Elijah White,101,10,217.92,Phin Den Da,Afternoon,In-store,Hanoi - Cau Giay
+890,Mason Thompson,139,9,388.71,Espresso,Morning,In-store,HCM - District 1
+891,Liam Brown,115,8,312.77,Cold Brew,Evening,Delivery,Da Nang
+892,James Wilson,132,1,464.74,Tra Sen Vang,Afternoon,Delivery,Da Nang
+893,Lucas Martin,143,17,256.46,Mocha,Afternoon,App,Hanoi - Hoan Kiem
+894,Isabella Miller,71,12,184.23,Cold Brew,Afternoon,In-store,HCM - District 1
+895,Noah Jones,145,15,253.51,Cold Brew,Morning,App,Hanoi - Hoan Kiem
+896,Sophia Davis,151,18,181.69,Phin Den Da,Afternoon,In-store,Hanoi - Cau Giay
+897,Amelia Taylor,107,18,333.33,Phin Sua,Evening,Delivery,HCM - District 1
+898,Olivia Williams,143,5,400.9,Freeze Tra Xanh,Afternoon,Delivery,HCM - District 3
+899,Harper Thomas,132,2,355.98,Latte,Evening,In-store,Hanoi - Hoan Kiem
+900,Logan Martinez,43,17,446.9,Tra Sen Vang,Afternoon,App,HCM - District 3
+901,Sophia Davis,21,11,366.1,Espresso,Morning,App,HCM - District 3
+902,Sophia Davis,126,4,244.03,Cold Brew,Afternoon,In-store,HCM - District 1
+903,Emma Johnson,21,4,221.28,Phin Den Da,Afternoon,App,HCM - District 1
+904,Isabella Miller,128,2,228.88,Phin Den Da,Morning,Delivery,HCM - District 1
+905,James Wilson,145,14,252.09,Tra Sen Vang,Afternoon,Delivery,Da Nang
+906,Evelyn Moore,99,8,222.78,Phin Den Da,Afternoon,Delivery,Hanoi - Cau Giay
+907,Abigail Jackson,20,8,351.09,Phin Den Da,Morning,In-store,HCM - District 1
+908,Mason Thompson,38,4,304.98,Phin Sua,Morning,In-store,Da Nang
+909,Mason Thompson,66,9,334.36,Freeze Tra Xanh,Morning,In-store,Hanoi - Hoan Kiem
+910,Liam Brown,13,17,466.01,Phin Den Da,Morning,App,Hanoi - Cau Giay
+911,Logan Martinez,7,4,180.93,Freeze Tra Xanh,Afternoon,In-store,Hanoi - Hoan Kiem
+912,Harper Thomas,94,8,248.45,Phin Den Da,Evening,App,HCM - District 1
+913,James Wilson,50,19,335.59,Espresso,Morning,In-store,Da Nang
+914,Benjamin Harris,157,11,117.81,Phin Sua,Evening,In-store,Hanoi - Cau Giay
+915,Noah Jones,21,1,341.52,Phin Sua,Morning,App,HCM - District 1
+916,Jacob Robinson,171,8,282.39,Freeze Tra Xanh,Morning,App,Hanoi - Cau Giay
+917,Sophia Davis,45,4,367.48,Cold Brew,Evening,In-store,HCM - District 3
+918,Evelyn Moore,32,9,261.61,Cold Brew,Morning,Delivery,HCM - District 3
+919,Logan Martinez,45,8,405.67,Freeze Tra Xanh,Evening,App,HCM - District 3
+920,Logan Martinez,25,14,136.65,Phin Den Da,Evening,In-store,Da Nang
+921,Emma Johnson,47,8,121.81,Cold Brew,Morning,Delivery,Hanoi - Hoan Kiem
+922,Isabella Miller,129,5,229.15,Freeze Tra Xanh,Afternoon,App,HCM - District 1
+923,Noah Jones,142,6,269.52,Phin Sua,Evening,App,HCM - District 1
+924,Noah Jones,104,10,350.51,Latte,Afternoon,In-store,Da Nang
+925,John Smith,49,2,279.8,Espresso,Evening,In-store,Hanoi - Cau Giay
+926,Elijah White,77,8,182.35,Mocha,Afternoon,App,HCM - District 3
+927,Ava Garcia,130,14,405.45,Latte,Afternoon,In-store,Da Nang
+928,Charlotte Anderson,139,14,320.4,Mocha,Evening,App,Hanoi - Cau Giay
+929,Elijah White,165,9,250.11,Phin Den Da,Morning,In-store,Hanoi - Cau Giay
+930,Liam Brown,48,7,317.62,Mocha,Evening,In-store,Da Nang
+931,Logan Martinez,148,3,523.99,Freeze Tra Xanh,Morning,In-store,Da Nang
+932,James Wilson,115,19,330.02,Tra Sen Vang,Evening,In-store,HCM - District 1
+933,Lucas Martin,46,2,433.22,Phin Sua,Afternoon,App,HCM - District 1
+934,Abigail Jackson,102,14,399.27,Freeze Tra Xanh,Evening,In-store,Hanoi - Cau Giay
+935,John Smith,73,10,425.64,Mocha,Evening,Delivery,Hanoi - Hoan Kiem
+936,James Wilson,21,13,145.12,Tra Sen Vang,Evening,In-store,Hanoi - Cau Giay
+937,Logan Martinez,134,13,308.83,Freeze Tra Xanh,Afternoon,App,Hanoi - Hoan Kiem
+938,Sophia Davis,178,5,352.44,Mocha,Evening,App,HCM - District 1
+939,Liam Brown,7,15,342.0,Phin Sua,Morning,In-store,Hanoi - Cau Giay
+940,Noah Jones,30,11,359.82,Freeze Tra Xanh,Evening,App,Hanoi - Cau Giay
+941,Liam Brown,21,9,274.18,Latte,Evening,In-store,HCM - District 1
+942,Isabella Miller,82,6,391.99,Latte,Afternoon,App,HCM - District 1
+943,Elijah White,173,5,343.51,Phin Sua,Morning,App,Da Nang
+944,Liam Brown,90,1,183.84,Espresso,Morning,App,Hanoi - Hoan Kiem
+945,Benjamin Harris,38,18,218.04,Phin Den Da,Evening,In-store,HCM - District 3
+946,John Smith,160,12,213.41,Cold Brew,Morning,App,HCM - District 3
+947,Amelia Taylor,113,9,275.93,Cold Brew,Afternoon,App,HCM - District 3
+948,Jacob Robinson,104,9,330.81,Cold Brew,Morning,Delivery,HCM - District 1
+949,John Smith,16,5,412.53,Tra Sen Vang,Evening,Delivery,Hanoi - Cau Giay
+950,John Smith,38,4,256.28,Freeze Tra Xanh,Morning,Delivery,Da Nang
+951,Charlotte Anderson,64,13,211.7,Mocha,Afternoon,App,Hanoi - Hoan Kiem
+952,Mason Thompson,105,16,359.54,Freeze Tra Xanh,Morning,App,HCM - District 1
+953,Charlotte Anderson,144,11,232.6,Espresso,Afternoon,In-store,HCM - District 1
+954,Ava Garcia,178,1,374.26,Tra Sen Vang,Morning,Delivery,Hanoi - Cau Giay
+955,Liam Brown,123,1,324.57,Tra Sen Vang,Afternoon,Delivery,HCM - District 3
+956,Lucas Martin,136,9,507.5,Tra Sen Vang,Evening,App,Hanoi - Hoan Kiem
+957,Olivia Williams,168,1,382.72,Cold Brew,Evening,Delivery,Hanoi - Cau Giay
+958,Charlotte Anderson,102,13,420.14,Phin Den Da,Afternoon,Delivery,HCM - District 1
+959,Liam Brown,47,5,117.31,Phin Den Da,Evening,In-store,Hanoi - Cau Giay
+960,Noah Jones,170,10,407.06,Phin Sua,Morning,Delivery,HCM - District 3
+961,Abigail Jackson,131,15,381.99,Phin Sua,Evening,In-store,Hanoi - Hoan Kiem
+962,Olivia Williams,135,12,473.7,Freeze Tra Xanh,Afternoon,Delivery,HCM - District 3
+963,Elijah White,40,12,252.76,Freeze Tra Xanh,Afternoon,App,Hanoi - Hoan Kiem
+964,Olivia Williams,96,7,312.01,Phin Den Da,Evening,App,Da Nang
+965,James Wilson,61,11,165.11,Tra Sen Vang,Afternoon,Delivery,Hanoi - Cau Giay
+966,Jacob Robinson,170,17,41.81,Freeze Tra Xanh,Afternoon,App,Da Nang
+967,Noah Jones,174,14,334.32,Phin Sua,Evening,Delivery,HCM - District 1
+968,Evelyn Moore,49,4,358.38,Mocha,Afternoon,Delivery,HCM - District 3
+969,Benjamin Harris,156,2,162.12,Freeze Tra Xanh,Morning,App,Da Nang
+970,Abigail Jackson,65,11,252.6,Tra Sen Vang,Evening,App,Da Nang
+971,Mason Thompson,164,18,280.6,Phin Den Da,Morning,In-store,Hanoi - Cau Giay
+972,Emma Johnson,148,10,253.21,Tra Sen Vang,Afternoon,App,Hanoi - Cau Giay
+973,Abigail Jackson,164,5,319.2,Cold Brew,Afternoon,Delivery,Da Nang
+974,Abigail Jackson,16,2,338.09,Freeze Tra Xanh,Morning,Delivery,Hanoi - Hoan Kiem
+975,Amelia Taylor,98,1,513.61,Cold Brew,Morning,Delivery,HCM - District 3
+976,Logan Martinez,118,17,339.01,Freeze Tra Xanh,Afternoon,In-store,HCM - District 1
+977,Emma Johnson,98,3,231.77,Mocha,Evening,In-store,Hanoi - Cau Giay
+978,Ava Garcia,175,5,335.74,Phin Sua,Afternoon,App,HCM - District 3
+979,Noah Jones,70,13,341.17,Phin Den Da,Evening,Delivery,Da Nang
+980,Harper Thomas,14,7,445.24,Phin Sua,Evening,App,Da Nang
+981,Abigail Jackson,152,10,374.79,Espresso,Evening,Delivery,Hanoi - Hoan Kiem
+982,Charlotte Anderson,120,5,406.61,Freeze Tra Xanh,Evening,App,Hanoi - Hoan Kiem
+983,Logan Martinez,122,3,253.56,Cold Brew,Morning,App,HCM - District 3
+984,Noah Jones,18,15,325.8,Mocha,Evening,In-store,Hanoi - Hoan Kiem
+985,Jacob Robinson,127,2,362.06,Espresso,Afternoon,In-store,Hanoi - Cau Giay
+986,Emma Johnson,78,5,277.32,Phin Den Da,Evening,In-store,Hanoi - Hoan Kiem
+987,Elijah White,179,6,300.97,Cold Brew,Morning,Delivery,Hanoi - Cau Giay
+988,Charlotte Anderson,71,9,219.65,Phin Den Da,Evening,App,HCM - District 1
+989,Liam Brown,34,7,504.65,Cold Brew,Afternoon,In-store,HCM - District 3
+990,Jacob Robinson,124,15,182.02,Freeze Tra Xanh,Morning,Delivery,Da Nang
+991,Charlotte Anderson,110,10,265.73,Cold Brew,Evening,In-store,HCM - District 1
+992,Olivia Williams,117,10,279.07,Tra Sen Vang,Evening,App,Da Nang
+993,Charlotte Anderson,156,3,615.25,Phin Den Da,Morning,In-store,HCM - District 3
+994,Elijah White,102,9,442.66,Phin Den Da,Morning,In-store,Hanoi - Cau Giay
+995,Harper Thomas,58,10,405.02,Mocha,Evening,App,Da Nang
+996,Evelyn Moore,131,4,417.5,Phin Sua,Morning,In-store,HCM - District 1
+997,Jacob Robinson,11,9,469.45,Mocha,Afternoon,In-store,Hanoi - Cau Giay
+998,Logan Martinez,103,4,303.29,Latte,Evening,Delivery,Da Nang
+999,Harper Thomas,98,14,424.77,Espresso,Evening,In-store,HCM - District 1
+1000,Emma Johnson,137,1,192.01,Cold Brew,Evening,App,Hanoi - Cau Giay
